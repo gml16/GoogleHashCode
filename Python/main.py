@@ -48,8 +48,8 @@ def main():
     e = "../dataset/e_shiny_selfies.txt"
     filepath = a
     photos = read_input_photo(filepath)
-    merge_slide(photos)
     print(photos)
+    merge_slide(photos)
     print("Slideshow:")
 
 
