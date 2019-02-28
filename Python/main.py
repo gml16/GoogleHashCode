@@ -114,6 +114,8 @@ def greedy_slideshow(photos):
 
 
 def slide_to_string(slideshow):
+    while (len(slideshow) == 1):
+        slideshow = slideshow[0]
     res = ''
     for p in slideshow:
         _p = set(p)
@@ -122,7 +124,7 @@ def slide_to_string(slideshow):
             layout = 'V'
         else:
             layout = 'H'
-        _p.remove(layout)
+        _p.remove(layout)   
 
         pic = pic + layout + ' '
         for elem in p:
@@ -142,7 +144,7 @@ def main():
     c = "../dataset/c_memorable_moments.txt"
     d = "../dataset/d_pet_pictures.txt"
     e = "../dataset/e_shiny_selfies.txt"
-    files = [a, b, c, d, e]
+    files = [a,b,c,d,e]
     for i,f in enumerate(files):
         filepath = f
         photos = read_input_photo(filepath)
@@ -154,10 +156,10 @@ def main():
             slides.append(greedy_slideshow(photos[j:j+step]))
         slide = merge_slide(slides)
 
-        names={0:'a.txt',1:'b.txt',2:'c.txt',3:'d.txt',4:'e.txt'}
+        names={0:'c.txt',1:'a.txt',2:'c.txt',3:'d.txt',4:'e.txt'}
 
         file = open(names[i], 'w+')
-        file.write(slide_to_string(slide[0]))
+        file.write(slide_to_string(slide))
 
     
 
