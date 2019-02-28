@@ -1,4 +1,5 @@
 import copy
+import tqdm
 import numpy as np
 import matplotlib.pyplot as plt
 # from keras.models import Sequential
@@ -107,7 +108,8 @@ def greedy_slideshow(photos):
                 max_next = p2
 
         slideshow.append(max_next)
-        photos.remove(max_next)
+        if max_next in photos:
+            photos.remove(max_next)
 
     return slideshow
 
@@ -143,12 +145,23 @@ def main():
     c = "../dataset/c_memorable_moments.txt"
     d = "../dataset/d_pet_pictures.txt"
     e = "../dataset/e_shiny_selfies.txt"
-    filepath = c
-    photos = read_input_photo(filepath)
+    files = [a, b, c, d, e]
+    for i,f in enumerate(files):
+        filepath = f
+        photos = read_input_photo(filepath)
 
-    #print(photos)
-    slide = greedy_slideshow(photos)
-    print(slide_to_string(slide))
+        #print(photos)
+        slides = []
+        step = 1000
+        for j in tqdm.tqdm(range(0, len(photos), step)):
+            slides.append(greedy_slideshow(photos[j:j+step]))
+        slide = merge_slide(slides)
+
+        names={0:'a.txt',1:'b.txt',2:'c.txt',3:'d.txt',4:'e.txt'}
+
+        file = open(names[i], 'w+')
+        file.write(slide_to_string(slide[0]))
+
     
 
     #a = photos[:3]
