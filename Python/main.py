@@ -138,7 +138,23 @@ def slide_to_string(slideshow):
         res += pic + '\n'
     return res
 
+def read_parse(fp):
+    f = open(fp, 'r')
+    res = ''
+    with open(fp) as f:
+        content = f.readlines()
+        content.remove(content[-1])
 
+    for l in content:
+        l = l.split(' ')
+        
+
+        print(l)
+        if l[0] == 'V':
+            res += l[1] + ' ' + l[2] + '\n'
+        else:
+            res += l[1] + '\n'
+    return res
 
 
 def main():
@@ -147,7 +163,7 @@ def main():
     c = "../dataset/c_memorable_moments.txt"
     d = "../dataset/d_pet_pictures.txt"
     e = "../dataset/e_shiny_selfies.txt"
-    files = [a,b,c,d,e]
+    files = [a,d,e,c,b]
     for i,f in enumerate(files):
         filepath = f
         photos = read_input_photo(filepath)
@@ -159,10 +175,11 @@ def main():
             slides.append(greedy_slideshow(photos[j:j+step]))
         slide = merge_slide(slides)
 
-        names={0:'c.txt',1:'a.txt',2:'c.txt',3:'d.txt',4:'e.txt'}
+        names={0:'a.txt',1:'d.txt',2:'e.txt',3:'c.txt',4:'b.txt'}
 
         file = open(names[i], 'w+')
-        file.write(slide_to_string(slide))
+        file.write(read_parse(slide_to_string(slide)))
+    
 
     
 
