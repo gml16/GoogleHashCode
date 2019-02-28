@@ -1,25 +1,47 @@
-import tqdm
+import tqdm 
 import numpy as np
 import matplotlib.pyplot as plt
-from keras.models import Sequential
-from keras.layers import Dense
-from sklearn.model_selection import KFold
+# from keras.models import Sequential
+# from keras.layers import Dense
+# from sklearn.model_selection import KFold
 
-def read_input_pizza(filename):
-    """Reads the input of a Pizza problem.
+def read_input_photo(filename):
 
-    returns:
-
-    R: number of Rows of pizza grid
-    C: number of Cols of pizza grid
-    L: Lowest number of each ingredients per slice
-    H: Highest number of cells per slice
-    pizza: the pizza grid (1 == tomato, 0 == mushroom)
-    """
     lines = open(filename).readlines()
-    R, C, L, H = [int(val) for val in lines[0].split()]
-    pizza = np.array([list(map(lambda item: 1 if item == 'T' else 0, row.strip())) for row in lines[1:]])
-    return R, C, L, H, pizza
+
+    ps = [str(L).split(' ')[1:] for L in lines[1:]]
+    p = []
+    for i,_p in enumerate(ps):
+        p.append(_p) 
+        p[i][-1] = (p[i][-1])[:-1]
+        p[i] = set(p[i])
+    return p
+
+
+def calculate_score(s):
+    N = len(s)
+    if (N <= 1):
+        return 0
+    score = 0
+    for i in range(N-1):
+        score += min(len(a&b), len(a-b), len(b-a)) 
+    return score
+
+def greedy_slideshow(p):
+
+
+def main():
+    a = "../dataset/a_example.txt"
+    b = "../dataset/b_example.txt"
+    c = "../dataset/a_example.txt"
+    d = "../dataset/a_example.txt"
+    e = "../dataset/a_example.txt"
+    filepath = a
+    photos = read_input_photo(filepath)
+    print(photos)
+    print("Slideshow:")
+
+
 
 if __name__ == "__main__":
     main()
