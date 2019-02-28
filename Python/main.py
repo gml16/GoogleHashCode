@@ -1,4 +1,4 @@
-import tqdm 
+import copy
 import numpy as np
 import matplotlib.pyplot as plt
 # from keras.models import Sequential
@@ -20,23 +20,46 @@ def read_input_photo(filename):
     return p
 
 
-def calculate_score(s):
-    N = len(s)
-    if (N <= 1):
-        return 0
-    score = 0
-    for i in range(N-1):
-        a = s[i]
-        b = s[i+1]
-        score += min(len(a&b), len(a-b), len(b-a)) 
-    return score
+def calculate_score(_a, _b):
+    a = set(_a)
+    b = set(_b)
+    a.remove('V') if 'V' in a else a.remove('H')
+    b.remove('V') if 'V' in b else b.remove('H')
+    return min(len(a&b), len(a-b), len(b-a))
 
-def merge_slide(slide, depth=1):
-    for p in slide:
-        print(p)
+    
 
+def merge_slide(slides):
+    while (len(slides) > 1):
+        slide = slides[0]
+        slides.remove(slide)
+        best = []
+        for j,s in enumerate(slides):
+            poss = []
+            fb = calculate_score(slide[0], s[-1])
+            poss.append(fb)
+            bf = calculate_score(slide[-1], s[0])
+            poss.append(bf)
 
+            best.append((j, ("fb", fb)) if fb > bf else (j, ("bf", bf)))
+        m_best = best.index(max(best, key=lambda x:x[1][1]))
+        bst = best[m_best]
+        b = slides[bst[0]]
+        slides.remove(b)
+        if bst[1][0] == "fb":
+            for s_i in slide:
+                b.append(s_i)
+            if len(slides) == 0:
+                return b
+            slides.append(b)
+        else:
+            for b_i in b:
+                slide.append(b_i)
+            if len(slides) == 0:
+                return slide
+            slides.append(slide)
 
+    return slides
 
 
 
@@ -48,10 +71,13 @@ def main():
     e = "../dataset/e_shiny_selfies.txt"
     filepath = a
     photos = read_input_photo(filepath)
-    print(photos)
-    merge_slide(photos)
+    a = photos[:3]
+    b = photos[3:]
+    print("1 ",a)
+    print("2 ", b, end="\n\n")
+    c = merge_slide([a,b])
     print("Slideshow:")
-
+    print(c)
 
 
 if __name__ == "__main__":
