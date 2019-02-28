@@ -9,11 +9,12 @@ def read_input_photo(filename):
 
     lines = open(filename).readlines()
 
-    ps = [str(L).split(' ')[1:] for L in lines[1:]]
+    ps = [str(L).split(' ') for L in lines[1:]]
     p = []
     for i,_p in enumerate(ps):
         p.append(_p) 
         p[i][-1] = (p[i][-1])[:-1]
+        p[i].append(i)
         p[i] = set(p[i])
     return p
 
@@ -27,7 +28,13 @@ def calculate_score(s):
         score += min(len(a&b), len(a-b), len(b-a)) 
     return score
 
-def greedy_slideshow(p):
+def merge_slide(slides, depth=1):
+    for p in slide:
+        p = list(p)
+
+
+
+
 
 
 def main():
