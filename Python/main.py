@@ -89,6 +89,7 @@ def greedy_slideshow(photos):
     for x,y in vertical_pairs:
         photos.append(x.union(y))
 
+    print(photos)
     slideshow = []
 
     while len(photos) > 0:
@@ -136,6 +137,8 @@ def slide_to_string(slideshow):
             pic = pic + str(elem) + ' '
         res += pic + '\n'
     return res
+
+
 
 
 def main():
