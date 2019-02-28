@@ -1,4 +1,4 @@
-import tqdm 
+
 import numpy as np
 import matplotlib.pyplot as plt
 # from keras.models import Sequential
@@ -28,14 +28,22 @@ def calculate_score(s):
         score += min(len(a&b), len(a-b), len(b-a)) 
     return score
 
-def merge_slide(slides, depth=1):
-    for p in slide:
-        p = list(p)
+def join_verticals(p):
+    for photo in p:
+        if 'H' in photo:
+            p.remove(photo)
+
+    photos = list(p)
+    dp = [[0]*len(p)]*len(p)
+
+    for i in range(1, len(p)):
+        for j in range(1, len(p)):
+            if i == j:
+                break
+            score = calculate_score(p[i].union())
 
 
-
-
-
+    return dp
 
 def main():
     a = "../dataset/a_example.txt"
@@ -47,6 +55,7 @@ def main():
     photos = read_input_photo(filepath)
     print(photos)
     print("Slideshow:")
+    print(join_verticals(photos))
 
 
 
