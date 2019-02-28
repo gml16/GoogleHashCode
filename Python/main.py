@@ -26,12 +26,13 @@ def calculate_score(s):
         return 0
     score = 0
     for i in range(N-1):
+        a = s[i]
+        b = s[i+1]
         score += min(len(a&b), len(a-b), len(b-a)) 
     return score
 
 def merge_slide(slide, depth=1):
     for p in slide:
-        p = list(p)
         print(p)
 
 
