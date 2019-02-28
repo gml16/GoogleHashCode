@@ -1,51 +1,69 @@
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.*;
 
 public class Main {
-    public static void main(String[] args) {
-        Scanner scn = new Scanner(System.in);
-        int n = scn.nextInt();
-        int max = n;
+    public static void main(String[] args) throws IOException {
+
+        BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\guyle\\Desktop\\GoogleHashCode2019\\dataset\\c_memorable_moments.txt"));
+        String line;
+        br.readLine();
+        int id = 0;
         List<Pic> pics = new ArrayList<>();
-        scn.nextLine();
-        while(n-->0){
-            String line = scn.nextLine();
-            String[] elems = line.split("\\s+");
+        String[] elems;
+        while ((line = br.readLine()) != null){
+            elems = line.split("\\s+");
             boolean horizontal = (elems[0].equals("H"));
             int k = Integer.valueOf(elems[1]);
             Set<String> tags = new HashSet<>();
             while(k-->0){
                 tags.add(elems[k+2]);
             }
-            pics.add(new Pic(horizontal, tags, max-n));
+            pics.add(new Pic(horizontal, tags, id));
+            id++;
         }
-        scn.close();
 
         Slideshow slideshow = new Slideshow(picsToSlides(pics));
 
-        System.out.println(pics);
-        System.out.println(slideshow);
-        System.out.println(slideshow.calculateScoreSlideshow());
+
+        //System.out.println(pics);
+
+        //System.out.println(slideshow);
+
+        //System.out.println(pics);
+        //System.out.println(slideshow);
+        //System.out.println(slideshow.calculateScoreSlideshow());
+        slideshow = swapTwoElementsRandomly(slideshow);
+        //slideshow.outputSolution();
 
         slideshow.outputSolution();
-        System.out.println("FINDING RANDOMLY");
+        slideshow.calculateScoreSlideshow();
+
+        //System.out.println("FINDING RANDOMLY");
         //shuffleUntilFoundBetter(pics);
 
     }
 
-    public static void shuffleUntilFoundBetter(List<Pic> pics){
+    public static Slideshow swapTwoElementsRandomly(Slideshow slideshow){
         int score = 0;
-        int temp = 0;
-        while(true) {
-            Collections.shuffle(pics);
-            Slideshow slideshow = new Slideshow(picsToSlides(pics));
-            temp = slideshow.calculateScoreSlideshow();
-            System.out.println(slideshow);
+        int temp;
+        int attempts = 100000;
+        Slideshow bestSS = slideshow;
+        slideshow.calculateScoreSlideshow();
+        while(attempts-->0) {
+            temp = slideshow.swap2slidesRand();
+            if(attempts%50000==0){
+                System.out.println(temp + " - " + score);
+            }
             if(temp>score){
                 score = temp;
-                System.out.println(score);
-                System.out.println(slideshow);
+                bestSS = slideshow;
             }
         }
+        System.out.println(score);
+        return bestSS;
     }
 
     public static List<Slide> picsToSlides(List<Pic> pics){
