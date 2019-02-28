@@ -7,7 +7,7 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) throws IOException {
 
-        BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\guyle\\Desktop\\GoogleHashCode2019\\dataset\\c_memorable_moments.txt"));
+        BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\guyle\\Desktop\\GoogleHashCode2019\\dataset\\d_pet_pictures.txt"));
         String line;
         br.readLine();
         int id = 0;
@@ -49,13 +49,13 @@ public class Main {
     public static Slideshow swapTwoElementsRandomly(Slideshow slideshow){
         int score = 0;
         int temp;
-        int attempts = 100000;
+        int attempts = 5000000;
         Slideshow bestSS = slideshow;
         slideshow.calculateScoreSlideshow();
         while(attempts-->0) {
             temp = slideshow.swap2slidesRand();
             if(attempts%50000==0){
-                System.out.println(temp + " - " + score);
+                System.out.println((attempts/50000) + " - " + temp + " - " + score);
             }
             if(temp>score){
                 score = temp;

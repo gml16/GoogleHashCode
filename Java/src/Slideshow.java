@@ -77,7 +77,7 @@ public class Slideshow {
 
 
     public void outputSolution() throws IOException {
-        File file = new File("C:\\Users\\guyle\\Desktop\\GoogleHashCode2019\\dataset\\c_memorable_moments_output.txt");
+        File file = new File("C:\\Users\\guyle\\Desktop\\GoogleHashCode2019\\dataset\\d_pet_pictures_output.txt");
         file.delete();
         BufferedWriter writer = new BufferedWriter(new FileWriter(file));
         writer.write(Integer.toString(this.slides.size()) + " ");
