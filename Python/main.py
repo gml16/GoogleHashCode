@@ -83,7 +83,7 @@ def join_verticals(photos):
 
 def greedy_slideshow(photos):
     vertical_pairs = join_verticals(copy.copy(photos))
-    photos = filter(lambda p: 'H' in p, photos)
+    photos = list(filter(lambda p: 'H' in p, photos))
 
     for x,y in vertical_pairs:
         photos.append(x.union(y))
@@ -111,6 +111,29 @@ def greedy_slideshow(photos):
     return slideshow
 
 
+def slide_to_string(slideshow):
+    res = ''
+    for p in slideshow:
+        _p = set(p)
+        pic = ''
+        if 'V' in p:
+            layout = 'V'
+        else:
+            layout = 'H'
+        _p.remove(layout)
+
+        pic = pic + layout + ' '
+        for elem in p:
+            if type(elem) == int:
+                pic = pic + str(elem) + ' ' 
+                _p.remove(elem)
+
+        for elem in _p:
+            pic = pic + str(elem) + ' '
+        res += pic + '\n'
+    return res
+
+
 def main():
     a = "../dataset/a_example.txt"
     b = "../dataset/b_lovely_landscapes.txt"
@@ -120,16 +143,20 @@ def main():
     filepath = c
     photos = read_input_photo(filepath)
 
-    a = photos[:3]
-    b = photos[3:]
-    print("1 ",a)
-    print("2 ", b, end="\n\n")
-    c = merge_slide([a,b])
-    print("Slideshow:")
-    print(c)
+    #print(photos)
+    slide = greedy_slideshow(photos)
+    print(slide_to_string(slide))
+    
+
+    #a = photos[:3]
+    #b = photos[3:]
+    #print("1 ",a)
+    #print("2 ", b, end="\n\n")
+    #c = merge_slide([a,b])
+    #print("Slideshow:")
+    #print(c)
 
     #print(photos)
-    print(greedy_slideshow(photos))
 
 if __name__ == "__main__":
     main()
