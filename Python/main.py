@@ -89,7 +89,7 @@ def greedy_slideshow(photos):
     for x,y in vertical_pairs:
         photos.append(x.union(y))
 
-    print(photos)
+
     slideshow = []
 
     while len(photos) > 0:
@@ -148,8 +148,6 @@ def read_parse(fp):
     for l in content:
         l = l.split(' ')
         
-
-        print(l)
         if l[0] == 'V':
             res += l[1] + ' ' + l[2] + '\n'
         else:
@@ -178,8 +176,12 @@ def main():
         names={0:'a.txt',1:'d.txt',2:'e.txt',3:'c.txt',4:'b.txt'}
 
         file = open(names[i], 'w+')
-        file.write(read_parse(slide_to_string(slide)))
-    
+        file.write(slide_to_string(slide))
+        file.close()
+        correct = read_parse(names[i])
+        file = open(names[i], 'w+')
+        file.write(correct)
+
 
     
 
