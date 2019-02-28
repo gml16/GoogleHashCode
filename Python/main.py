@@ -32,10 +32,10 @@ def greedy_slideshow(p):
 
 def main():
     a = "../dataset/a_example.txt"
-    b = "../dataset/b_example.txt"
-    c = "../dataset/a_example.txt"
-    d = "../dataset/a_example.txt"
-    e = "../dataset/a_example.txt"
+    b = "../dataset/b_lovely_landscapes.txt"
+    c = "../dataset/c_memorable_moments.txt"
+    d = "../dataset/d_pet_pictures.txt"
+    e = "../dataset/e_shiny_selfies.txt"
     filepath = a
     photos = read_input_photo(filepath)
     print(photos)
