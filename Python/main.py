@@ -150,15 +150,15 @@ def main():
         #print(photos)
         slides = []
         step = 1000
-        for i in tqdm.tqdm(range(0, len(photos), step)):
-            slides.append(greedy_slideshow(photos[i:i+step]))
+        for j in tqdm.tqdm(range(0, len(photos), step)):
+            slides.append(greedy_slideshow(photos[j:j+step]))
         slide = merge_slide(slides)
 
         names={0:'a.txt',1:'b.txt',2:'c.txt',3:'d.txt',4:'e.txt'}
 
         file = open(names[i], 'w+')
         file.write(slide_to_string(slide[0]))
-        
+
     
 
     #a = photos[:3]
