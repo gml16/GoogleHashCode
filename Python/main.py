@@ -14,6 +14,7 @@ def read_input_photo(filename):
     for i,_p in enumerate(ps):
         p.append(_p) 
         p[i][-1] = (p[i][-1])[:-1]
+        p[i] = list(filter(lambda x: not x.isdigit(), p[i]))
         p[i].append(i)
         p[i] = set(p[i])
     return p
@@ -28,9 +29,10 @@ def calculate_score(s):
         score += min(len(a&b), len(a-b), len(b-a)) 
     return score
 
-def merge_slide(slides, depth=1):
+def merge_slide(slide, depth=1):
     for p in slide:
         p = list(p)
+        print(p)
 
 
 
@@ -45,6 +47,7 @@ def main():
     e = "../dataset/e_shiny_selfies.txt"
     filepath = a
     photos = read_input_photo(filepath)
+    merge_slide(photos)
     print(photos)
     print("Slideshow:")
 
