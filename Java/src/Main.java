@@ -5,8 +5,8 @@ import java.io.IOException;
 import java.util.*;
 
 public class Main {
-    public static void main(String[] args) throws IOException {
 
+    public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\guyle\\Desktop\\GoogleHashCode2019\\dataset\\d_pet_pictures.txt"));
         String line;
         br.readLine();
@@ -24,26 +24,10 @@ public class Main {
             pics.add(new Pic(horizontal, tags, id));
             id++;
         }
-
         Slideshow slideshow = new Slideshow(picsToSlides(pics));
-
-
-        //System.out.println(pics);
-
-        //System.out.println(slideshow);
-
-        //System.out.println(pics);
-        //System.out.println(slideshow);
-        //System.out.println(slideshow.calculateScoreSlideshow());
         slideshow = swapTwoElementsRandomly(slideshow);
-        //slideshow.outputSolution();
-
         slideshow.outputSolution();
         slideshow.calculateScoreSlideshow();
-
-        //System.out.println("FINDING RANDOMLY");
-        //shuffleUntilFoundBetter(pics);
-
     }
 
     public static Slideshow swapTwoElementsRandomly(Slideshow slideshow){

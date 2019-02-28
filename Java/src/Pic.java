@@ -31,6 +31,4 @@ public class Pic {
         String h = this.horizontal ? "Horizontal" : "Vertical";
         return "Photo is " + h + " and has tags " + tags;
     }
-
-
 }

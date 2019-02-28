@@ -48,7 +48,6 @@ public class Slideshow {
         if(index2 != this.slides.size()-1) {
             firstpass -= this.slides.get(index2).calcuteScoreTransition(this.slides.get(index2 + 1));
         }
-
         if(index2 != 0) {
             firstpass += this.slides.get(index1).calcuteScoreTransition(this.slides.get(index2 - 1));
         }
@@ -62,10 +61,7 @@ public class Slideshow {
             firstpass += this.slides.get(index2).calcuteScoreTransition(this.slides.get(index1 + 1));
         }
 
-
-
         if(firstpass > 0){
-
             this.score+= firstpass;
             Slide temp = this.slides.get(index1);
             this.slides.set(index1, this.slides.get(index2));
@@ -80,7 +76,7 @@ public class Slideshow {
         File file = new File("C:\\Users\\guyle\\Desktop\\GoogleHashCode2019\\dataset\\d_pet_pictures_output.txt");
         file.delete();
         BufferedWriter writer = new BufferedWriter(new FileWriter(file));
-        writer.write(Integer.toString(this.slides.size()) + " ");
+        writer.write(this.slides.size() + " ");
         writer.newLine();
         for(Slide s : this.slides){
             String res = s.getP0().getId() + " ";
@@ -97,6 +93,4 @@ public class Slideshow {
     public String toString(){
         return slides.toString();
     }
-
-
 }
