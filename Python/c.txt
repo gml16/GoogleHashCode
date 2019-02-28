@@ -1,725 +1,724 @@
-H 1 twt1 trn tgr t81 tc51 tzb1 t6c 
-H 28 tzg tkg1 t5w1 t6c trn t6r tx2 tbn1 tm9 tk31 t4v1 tr02 tdp tf2 
-H 3 tms tqz1 tqp1 tl3 twd1 t0c t351 t21 t8b1 tg02 
-H 387 tqp1 tl3 t441 th42 tlb2 tdz1 trt t291 tt4 t9q1 t482 tf42 tj51 
-H 4 tz41 t2m1 trn t892 tld1 tsj1 tv81 tpb t9q1 t4t1 t6r1 tt 
-V 470 167 tj01 t792 t6d tld1 tv81 tdk tdd1 t1g H tn81 trp1 t431 tmr1 tq81 thh1 tt2 tvz t882 t63 tdg1 tcc tsl tsb1 tqb2 tmh tt 
-H 5 tfg1 t071 tn3 t771 t332 t3b1 tbn1 t822 t51 t882 ttc1 t7d1 
-H 652 tn3 t771 tcz tvr tt11 tn51 t311 
-H 7 t2m1 twg1 t5p1 tdm1 ttc tjp t2x1 tk6 
-H 286 tl72 td62 ttr tsj1 tcv1 ttw1 t8w tx1 tlb1 tm9 trt t2x1 th11 tk6 
-H 9 tr42 tzw t762 tcc tqg t3x t471 tj82 ts12 td42 t391 
-V 585 383 t9t t6n tx41 tjq1 tzg t2 t5w1 tv32 t532 t6r1 tt42 txg t711 t3b1 thr ttd t762 tcc tv02 t5b tj82 
-H 11 t7n1 tp72 th61 t4q1 tkn t991 tkc2 ttx1 twn1 t0t1 tnl tt 
-V 177 511 t9z1 th61 t911 tgn1 H ttd1 t7q1 td9 tx3 t181 tm9 t9s1 t5v1 t2b1 td4 thb1 tj81 tw11 tnj t1v1 tnl tt tfb2 
-H 13 ttx th61 tg62 t86 tsr1 tm7 t4t t5k1 tb62 t0n1 tt11 t622 tnf1 
-H 606 tnq1 t6z tb3 tgj1 tm7 tb62 t8b2 thp1 ts5 tt6 t622 t0s t0g 
-H 14 t9z1 tfj t622 thc1 t1n1 
-V 388 522 t55 tf52 td62 tzg tbw tmf ttw1 thc1 tg7 t5w ts4 tq81 tzn trc1 tfj t39 t651 t962 t841 tt11 ttc tfb t321 tk6 
-H 16 td8 t8b1 tvh tf01 tr2 
-V 36 314 tqz1 tb32 tx62 tv81 tvk t261 tr2 tz91 H t011 tm ttw1 tck tv61 t242 ttb2 t2m1 tjl tvh tn42 th1 tlg1 trq t7p1 
-H 17 tqp1 t2m1 tcx tdz1 tpd 
-V 517 991 tk82 t55 tnx1 t991 tms1 tmm1 t0s t4t1 t7q1 tpd t0t1 tc6 tt21 tp7 tqp1 tnf tpw td5 tt9 ttc t861 t7p1 
-H 19 t7z1 tqb1 td7 tv1 t1c t4w thb1 tc01 tdg1 thn tk6 tnb2 tt 
-H 298 tt t0t1 t901 thb1 ttm thc1 tzb1 
-H 21 tv9 t332 t0v1 tlz1 t561 tgb1 t4j1 tfl1 t16 tgw1 t742 
-H 203 t7n1 twg1 t332 tv9 t131 tz61 t7w tgp tv7 
-H 22 tb02 tq3 tp82 th61 tb4 tdn1 tr42 tsq1 tv71 thr1 tnh1 t402 t471 tz02 
-H 775 tsq1 tnf tb2 t621 tq3 th61 tt9 tj61 ts62 tpq1 t4d1 t6r1 trj 
-H 23 t0d2 tk22 t1c tzt1 t1s t402 tt11 ttm t74 tg22 tf2 t952 
-V 960 500 t002 tmb tfb1 t6d tsj1 tzt1 txf1 tr2 t0m1 H t4x t391 tt21 tc8 t181 tl41 t232 td7 t0h1 tk22 tvb1 tt11 tk6 tf2 trk 
-H 24 tp62 txg t711 tx7 t13 tq91 t691 ttj 
-H 125 t7n1 t8p tdq1 t2m tq91 tc52 tfz1 t2m1 tx7 th42 tx71 tx t692 trt 
-H 25 tr51 tvf tw t2m tvb1 tj91 tnn t1v1 t661 tf42 
-H 602 tvf t6r t7m tf42 tgb2 
-H 29 tdn ts92 tgb2 tbb2 t8f1 txf1 th1 tr21 
-V 90 169 tr51 tgc tdn1 tqv1 thg1 H tjr1 thj1 tm42 tk51 t1v tv7 t431 ttb2 tkr1 trn tk9 t951 t5v1 ts02 tgb2 t1s t351 th1 t691 tm1 td82 
-H 33 tv9 t96 tw22 tc31 tvt 
-H 38 t3c1 t7w tv9 tdb2 tdr tsg thp1 tf32 t2t tb5 tdp1 tnl tjs1 
-H 34 tnr t9s1 t882 t6t tr2 t9d1 tz91 t351 tv32 tvc2 t7q1 tbv 
-V 577 307 t6z t2m td61 tr2 tdt1 t3w tc11 t292 tq02 tgn1 t8 t7q1 tt82 tv7 tbv tms tr62 tz42 tp9 tf2 
-H 35 t3k tm81 t3b1 t0b1 t34 tvr tvv tm02 td3 t35 t6r1 
-H 358 tc21 t561 t34 tv12 tm02 tgp1 tg72 tbd1 t0s 
-H 39 tvc2 tv1 tqz tdq tgt1 t401 th1 t4w1 trq1 
-V 674 635 tn11 tl12 t4w tz91 tts tb5 tml t2v1 tjg tv1 tlb2 t5 t762 t1s th1 tt11 tqk tt22 
-H 41 t422 tqq t531 tr92 tqq1 tgb2 t1g tz91 trk tq31 
-H 433 t621 tc41 t921 t512 t882 tz91 t141 t0n1 tj7 tdp t0p tq31 
-H 42 t88 tj9 thc t2f tp7 
-H 276 th01 t771 t55 trp thc 
-H 43 t9z1 tkr1 tzk1 trs1 td7 
-V 14 15 t9z1 H tjq tzg1 thc1 tdp1 tg7 tc5 t2w1 t6d1 tlb1 tfj tz21 td7 t9n1 t1n1 t82 td91 t452 t622 
-H 45 tgc tzc2 tfj thg1 tls1 tqb2 t0t1 
-V 725 61 tr32 H tfk tfz1 t2n1 t921 t0g1 tb tx4 tqb1 tfj tgn th8 tr5 t1q th1 th6 t7j tnj tg21 t361 tt3 t861 tqb2 
-H 48 t3c1 tb9 tt9 tmd td7 tk22 t78 tpg1 tr82 twz tlm 
-H 688 tvs1 t33 tc9 t3p tt9 tk22 t131 t3q1 t9k t3x1 tc8 
-H 50 t682 tpc1 trr tr1 t31 t4b2 tgn t3g txf1 tr11 tl2 tbd1 t6r1 
-V 195 543 tr51 t942 ttp1 t002 tnx1 t0b1 tw81 t3g tdd1 thp1 t5c tbd1 t7b1 t212 tfc t092 tp5 t3m trn tv t6h1 t0d2 tgn t9h t6t t622 t7p1 
-H 56 t8t1 tsq1 tdg1 tp12 
-H 87 t3p tht1 tqb t38 tx52 tlr t9d1 tdg1 t21 tj41 tg71 tm1 t6d2 
-H 60 tr42 tl82 th81 tm2 tgp1 t241 tv02 thn ts12 
-H 197 t72 tqt th81 thn tv32 tcv1 t5j1 t3m tj3 tzb th1 t8l1 tbm t5f1 
-H 62 t8b1 tqb txh tr5 t5f tw52 tt tp32 
-H 576 tqz1 tcn1 t8b1 tsh1 tp8 th8 thg1 tz01 t0m1 t341 t1w tdv tw52 
-H 63 tl72 tn92 t9d1 t0s1 t1l1 tkc1 t4f tkf 
-H 505 t9d1 t0l t6r t761 tkf 
-H 70 tkk1 t4q1 t34 tvk t882 tgj tpc tg71 t5r1 t19 tjs1 
-V 550 49 t3c1 tb02 tfc2 t512 t34 txw t2m tvk tpc tz91 H tg52 tkv1 td ttw1 tkc1 tbn t0h tn51 tzn t2m1 tc21 tx6 t13 twb2 t3q tn61 
-H 73 tpx tn3 t5l t6x tvh tz9 tnv t221 t7d 
-H 743 tr51 t001 t3k tjt1 t8h tq5 t291 t011 t221 t7d 
-H 74 tqh ths1 tj41 thc1 tpn1 tv 
-H 100 tz42 tcf tvk tdd1 txp1 tj41 tq91 tv 
-H 75 tr42 tg32 t0k1 t6t tqs t6r1 thv 
-H 616 ttb2 tr42 t6r1 t4n1 twt t9c ts92 t7d tw12 tk6 t5p t952 
-H 77 tr51 tdb2 tz42 t512 tr92 t3n t76 
-V 40 752 tr51 tfx tsf t512 tq3 tdn1 t1g tq52 tv7 tbv tx1 tlz1 t6h t0w1 td32 tm1 tft1 
-H 78 t2z tmj tj41 th82 tf21 t4r t8w tlb1 tpb t1z1 tmc tsl th11 tr41 
-H 442 tqn t87 txf1 txk1 tg71 t4d1 tf21 t881 t8w 
-H 81 tsw1 tx71 tzz1 tqf tn12 th8 th1 tb22 t532 tqb2 tc51 tpd 
-H 450 t181 thh1 t062 tf22 tn12 tzk1 t0x1 thz tpd t3q1 t532 tmn 
-H 83 tq3 tmn1 trh tjw1 tcl tjr1 tgr t032 tgn tlr1 t191 tls1 tsm t5f1 
-H 860 tjj1 t561 tdv1 tn3 t332 t13 t491 ts92 tqj1 tjw1 tsm 
-H 89 td52 tr42 thr tsh1 t7v t8f1 t0c tv11 tq91 tb5 t9k tjn1 
-H 300 td41 thr tsh1 tcf thc t692 tst tnt t6m t471 t311 tkf tc51 
-H 90 ttb2 trn t5v1 tqv1 ts02 t351 th1 tjr1 t691 tm1 td82 t1v 
-H 314 tb32 tx62 tv81 tvk tr2 tz91 t011 tm ttb2 t2m1 tjl tn42 th1 t7p1 
-H 92 tvl1 tz12 t4d1 t4c2 tqx t0f1 t9s1 t86 t691 tl9 tvs1 t9k 
-V 327 401 tb02 t001 th61 tdg tgt1 tdd1 t221 tr1 t4d1 ttw1 t4t1 thv tcw1 td81 tqq trr tv42 t39 t9s1 t3q tdm1 t672 t361 tr82 t9k 
-H 98 t491 tz21 tkt1 tvk t1s t8t1 tc2 th5 trb t09 trk 
-V 858 680 tk82 tt ts92 t78 tc2 H tj41 trk tbj ttw1 trq1 tjb1 t4d2 tqx tv1 t8t1 thz tl5 tm52 tf42 
-H 103 tcv1 tl72 t55 tkt1 td62 tzs txf1 tj8 tq52 ttb1 tmc1 tvt1 
-V 770 664 tw8 t561 tl72 tkt1 tdg td62 tz91 tcv1 t881 t3k t242 tvf tk42 tk52 t5v1 t6t tr5 t63 tm52 tg71 t8l tf2 
-H 106 t9z1 t56 th22 t5v1 thz t672 tbd1 tk6 tf01 th52 trk 
-H 644 t9z1 t6f tx7 tz21 t762 tsc1 thp1 tcc t221 tvs1 tf01 tbv 
-H 107 tnm tgq1 tf22 t9h tsr1 tl6 
-H 567 th61 tsr1 tzt1 t1q1 tsk tl6 t6p1 ts4 tw t931 tv1 t1s tz9 tf2 
-H 109 tpr1 tw81 t2s tq91 tl2 t881 tpn1 t3m t242 tfk1 tzn t0h1 tf2 twb 
-H 820 tn3 tp21 tw81 trv tq91 t9j ttb1 tnl tz02 t881 
-H 110 tfc2 t481 tqm1 td7 t7j1 t021 
-V 928 801 tht1 t481 t6z twv1 tkt1 tcb2 tq11 tkq t28 t921 tn3 tfj tjx1 td7 tf22 tmj1 tw4 tpd 
-H 111 t3p txz1 t991 t9w1 t2m tqk1 tl9 tcl tg7 tqc 
-H 423 tdb2 t991 tb7 t851 t882 tmf thp1 th1 tl9 t7j1 t33 t4r 
-H 112 tzt1 t911 ttn txf tg7 thc1 
-V 72 529 t6q t71 tjr1 t81 tsp thc1 tct tg7 tnb2 tq8 tvf t531 tt12 th42 tc4 tx71 t651 tvb1 tkf thk1 
-H 113 t8n t8h tl tb62 tsv1 tl6 tld tsq tq81 tc61 ttd t9d1 t691 t9j1 
-V 394 524 tv9 t5n1 t34 t911 tfs t99 tqj1 t2 tl6 t5c tns tt61 ttw1 thv t881 trq1 tc5 thh1 tc61 t5p1 tf12 tlw1 t692 t9d1 t48 
-H 120 tnf t38 tkc1 tm9 tzg t6k1 trh tr1 tzm1 t3x1 
-H 638 tlx1 t892 tpk tr1 tzb1 tq81 tnf tds tb7 tp61 tf22 t5j tr5 tr02 
-H 121 td2 t3b1 tpp1 t0f1 th8 tr3 tq01 
-H 201 t422 t0f1 t9c tpc th8 t0c2 t8x td91 tcp t1w1 tt82 ts81 tqc 
-H 122 tzk1 tf1 tpz t3q 
-V 855 474 tk61 tmj t4z1 t78 tqw1 H t5w1 tjw1 tcj1 t0t1 t881 t4d2 tw t3r1 tz21 th42 tvh t3q tzk1 t0c tv52 tl51 t1v1 
-H 127 tg t3g tc92 tw52 tgj tvq1 tjj1 t0g1 t2m1 thh1 t0b tm9 tzb tm1 
-V 861 253 t001 tbh1 tbc2 t002 tfv t8h t3g tth tt21 tbv tkr1 tc21 t3b1 t0b t3r1 tm9 th42 tn91 t241 
-H 132 tw02 twg1 t771 t8q ttn tfm1 
-H 176 tcn1 twg1 t6r tx51 t5w1 t4x 
-H 135 tcq1 tgs1 tv51 tvh trq1 
-H 208 trl1 t2d tvh tdz1 tgb2 t431 thp1 trc t6z1 t7w tdx1 
-H 136 tkr1 tdz1 th8 t1s t0c tp6 tl81 
-V 873 490 tb32 tdr1 t4q1 tnn1 tj5 tf01 tb5 tcv1 t3n1 tn51 tjb1 t6c tzw t211 tmj1 tzk1 t0c t1s t402 tqb2 tnj thz1 tnl tmx1 
-H 139 tzn tk9 tht1 tzf1 t6z tfc2 t991 tq41 tzt1 t4w tl tv21 
-V 716 653 tpx t3p tht1 t6z t072 twc t991 t4t1 t7q1 t33 trr tjx1 tx51 t562 trv thz tcc2 tgp1 t49 tz82 tn4 tq62 tl32 
-H 140 t2r1 tfw t991 tkt1 t1s tr5 t9d1 tm52 
-V 217 46 tqz1 t091 tkt1 tdn1 tx41 tfr1 tqf tsb H td92 tm1 t1l tr42 t921 t2m1 tqq t13 t47 t1s tt31 tp91 t8l t5f1 
-H 141 t9v tdp1 tdp t3q txf1 
-H 994 thh1 t372 tz21 tdg t5p1 t3q t1d2 tvb2 t1b tw6 t2c tl51 tdp 
-H 142 tk82 tnt1 t0w1 tc11 trk1 tt4 tvc1 tzh thv 
-V 202 615 tfc2 t58 td62 tpc t04 tvc1 t2 tjt H tv32 tbd1 t81 tpd twp1 t881 t3l thv tt8 t181 tjh tw tkf1 tgt tz82 t412 t7p1 
-H 145 t3c1 tr51 t991 t5p1 t86 tf12 tg11 tw11 txz tt5 t5w1 txm1 tjb1 
-H 768 t991 t5p1 tmj1 t152 tzb2 tsc t4x t6d2 thm1 t9k t5f1 tjb1 
-H 148 tl72 ttj1 tq3 t0f1 tjb2 t882 tn12 td51 trx tbj t9n t1v1 
-H 245 t4d2 trr t15 t0f1 t68 tw5 tfh1 t1v1 twq tw2 
-H 149 tv9 tz22 tvr t651 tjw tqz tdv t6l1 tbd1 t0z tn4 tfz1 tmr1 
-H 532 t3k t001 tz22 tw81 t0x tjn t651 t3w tnz1 t8l tfz 
-H 154 t4q1 tn22 t34 t912 tqf tzz ttm tjr1 txz tj91 t3h tpn1 tcn thk1 
-H 483 t4q1 t4c2 t141 tc2 tq01 t7q1 tm11 tpn1 t3m 
-H 159 t561 t711 t3b1 tzq1 txf1 tgt1 t82 tt6 tc2 t74 
-H 370 tm51 tb02 tgc tlz1 tgl1 t992 tgt1 t291 ttm t74 tvs1 txn1 
-H 164 tj22 tc61 tjq1 t21 t4x twz 
-V 735 427 tpb2 t55 tp21 trl1 twm tn4 t4x t4d1 t7k1 tkw tc61 t5v1 tsg t4m1 t2t tv02 tdp tjs1 
-H 166 tkr1 t002 t0j1 t052 t39 t3t tk31 tb12 t2x1 t8c1 td72 t8j 
-H 296 tkr1 tlz1 thr tn71 tkb2 t7z tfr1 tgb2 t3j1 tg42 t8c1 tw41 
-H 167 t792 tt2 t6d tld1 tdk t431 tcc tsb1 tmh tt tmr1 
-H 799 t14 t511 t4c2 tld1 t6j1 t4w tz91 t4m1 tcc ts31 tvx1 t751 tc6 
-H 170 t3k t342 tqq1 t692 tl71 tx82 
-H 746 t3k tpb2 t85 tb7 t342 tbv1 tm22 tfr1 thz t21 tt6 tf7 tf01 
-H 174 tzl t0f1 tm9 t381 tdm1 tm41 tw6 
-H 704 tr51 tzf tzl tq21 t711 tm9 tll tff1 tjr1 t482 t9t1 tx3 
-H 177 t911 t2b1 td4 thb1 tgn1 tw11 tnj ttd1 
-V 912 691 tpb2 t6c2 t991 t9c1 t1r1 H tqk1 tc6 trr tp61 tgn tgb2 thb1 thf1 tn31 tw11 tqs twn1 
-H 178 tzw td41 tdd1 t4l1 tc11 tvb2 tpd tkc1 thk1 
-H 279 tr51 tcn1 tzw tzl tg11 tst t6w tt11 tpd 
-H 179 tr51 tl72 t002 tm7 tx41 tvv1 tzp1 tlm tjx tq81 tms tpq t9k tjs1 
-V 134 301 txl1 t3t tdg t8h tx41 t042 t8h1 t141 t4x1 H tss1 tct tcw1 ttb2 tms tl31 tc21 tx02 ttc2 tt9 t971 tg71 tk41 t9k t8q1 
-H 181 tkr1 tbf1 tz22 tnw t31 trm tdn1 tnn1 t261 tz02 ttb1 tdp tmn 
-V 730 988 tpr1 t561 tfc2 tdn1 t141 H td tn7 t6c tc61 trm t902 tnq tmj1 th1 ts22 tdp tf02 tvl 
-H 184 tzw tp62 tbs ts5 t5f1 trn1 tnl 
-H 755 ttz1 tp62 tt72 t4r t6f1 t781 tdg1 t7d tvs1 t6r1 tbj1 t5f1 
-H 186 t55 ttd tx tt81 tsk t6k tjp 
-H 294 tf91 t55 t6c2 tsc2 tj12 txf1 tpf tdh t4t1 t6w twr1 tnz tjs1 tk71 
-H 187 trh1 tzw tl31 t481 tq92 tgb t13 t3q trd t6t t7s1 tbj twn1 
-V 781 147 tqz1 t7n1 tlq1 tzt1 tw62 tmv tkb1 tg7 tzw tgb t13 t871 tk22 t381 t1q tlc2 tbv1 t471 
-H 189 t6c tpc1 t6z tmz tpc tdg1 td82 t1 tkf tpd 
-H 724 tgv1 tsq1 tpc1 tpc tn12 tr5 t0z1 tt82 
-H 192 t02 thk1 t98 t882 t6c 
-V 384 513 thh t462 tmm1 tfr1 tn12 t2 thp1 t4x t032 tq81 tr42 tzn tgb2 t882 twd1 tdm1 t572 tjc tcz1 thk1 
-H 193 tpc1 tz21 tzq1 tx71 tdg tfb1 tb72 t8l1 
-V 85 162 tt72 tq3 tdg tmc2 tkm tq1 txv tcl t532 tdp1 t4x tgj tsp tr82 t232 tx71 tpb tt4 t691 th11 t44 
-H 194 t07 tl72 ttf1 tz02 tx41 
-H 467 tvz1 t001 tht1 t3r1 tt9 tn71 ttf1 tx41 tdz1 ttc1 tcr tnl 
-H 196 t6z tvk t3w tj41 tf71 tv8 tjf tfz1 tc61 tk92 txn t1l1 tt11 tsw 
-V 838 436 tb02 tt71 t6z tfr1 t8h1 tjz tj41 tg72 H tf71 tk02 tx1 tc61 t951 t2d tz9 tr02 t161 t471 tv22 
-H 202 tw tz82 t3l tkf1 tpc tvc1 tv32 tbd1 t881 t412 tt8 
-H 468 ttx tn3 td41 t4n1 tw tbb1 t5q tpc t1w tpg1 t9j1 tc6 tk62 
-H 205 t462 tts1 t512 tqx td62 t8l1 
-V 131 289 t462 tdb2 t0f1 tkq tn81 tcl tlm tt61 tzr tzm1 t222 t4r tcg tjb1 tts1 ts21 t6t t82 ttg1 tg12 tx82 
-H 209 t181 tl72 tvr thg1 tmf tl51 tt 
-V 661 215 tl72 tx72 tn71 t0f1 tsb thg1 tvc1 tmf tp6 t532 tql1 tjb1 tjj1 t9s t5h t3q tmz1 tdg1 ttb1 tj82 tn4 
-H 210 t4d2 trr t33 tc6 ts2 
-H 406 t462 thw t4d2 t041 tpc1 tdd1 tk6 t33 tv01 
-H 211 twl1 t3p tqq tz22 tp3 t3w1 tkd1 tsv1 tm42 tb5 t6d2 t5r1 tnl 
-H 287 twm1 tz21 tvm1 ttn tb62 tsv1 tm42 t4x tj82 tgj tws t0s tmn 
-H 212 tnm t8m tf31 t381 tt52 t2g1 t981 t9k 
-V 581 207 ttz1 t601 t3g tzg t88 tv32 ttw1 thc1 t0t1 trv1 tcn1 tnm tfn1 t8m tkm1 twd1 t802 t8c2 tbm 
-H 213 t6f tcv1 t1m1 tjk t76 tpg1 t8b1 t8w 
-V 409 160 ttz1 tm6 t6x tbm1 t342 tq91 tpg1 t4t1 t532 t8w tph1 t242 td41 t3r1 tt9 tv1 tx71 tsw t982 t1w t161 t19 tq01 
-H 216 tzv1 tw51 td41 t7c2 tjx1 t0t1 t762 tn4 t1w ttm tr1 tg7 tv7 
-V 95 183 t3c1 t6v1 tq3 t7c t3g tl6 tqk1 ttm t7x1 tm42 tkc1 tg7 tcw1 t8x1 trn tl31 tjj1 t92 t4z t762 t0c tr02 t2t 
-H 217 tqz1 tdn1 tqf tsb td92 tm1 t1l tr42 t2m1 t13 t47 tt31 tp91 t5f1 
-V 0 22 tb02 tq3 tp82 t17 t471 tb4 tdn1 th61 H tw52 t1l tjb1 tg6 tr42 tsq1 tv71 thr1 tnh1 tmz1 t402 t8b1 tz02 
-H 219 tw51 tvb t0b1 t0f1 tck tc6 tt21 t4h1 thh1 t252 trv t0j1 tbm tnl1 
-H 278 tmt1 t4h1 thh1 t0l tsf1 t1 t3j1 tvn1 tx61 
-H 220 td51 tvf tfq1 trk tq01 
-H 745 tvb tpc1 thc2 tg62 tvk tdz ttm t5p1 thc tz92 tvb1 td51 tdd trk 
-H 222 tvb tdc trm tbt t8b1 tf2 t032 t902 
-H 514 t8b1 trm t86 t11 tv21 t4d1 tf2 tft1 
-H 225 tww tsq1 t38 trr tsw1 trt tpb tlm t9k 
-H 393 td41 tlz1 thc t3g trt tpb t9d1 tl4 tq52 t2x1 
-H 228 t181 t001 tzx1 tkj tzk1 tdg1 tfc1 tg71 t2x1 tnl th21 tfz1 
-H 281 t181 tq7 t5p1 t651 t5v1 tdg1 tgp1 tq91 t9n t532 tzr tt21 
-H 229 tqz1 tz72 tfj t3t tdv tzm1 tc7 t9k t3m 
-V 275 123 tfx tb02 tdc1 tht1 t5q tvr t342 tzg tjt H tjr1 tzm1 t3m t242 tqq thc t29 t882 t9d1 tjj tn9 tvj1 tjs1 
-H 230 tc21 t6z th7 tcl tt6 t7d 
-H 497 tqz1 tt71 tgc t6z tzg tqw1 tc2 trq1 tnm tc21 tdz1 t9d1 t2r t19 
-H 232 t9s1 t1k1 t6b2 td32 tjt t6q1 tj8 tdv tlr 
-H 247 t711 t192 tmd t9s1 t331 t2p t7d1 tw11 tf71 t5w1 tm1 tsw t66 
-H 233 tc21 t671 tbq1 tgp1 tb21 t1v1 tdp t6d2 tg2 
-V 509 382 t4r1 td02 tdb2 t471 H thn tt82 trj tsl1 tc21 t0h1 t8t1 tm02 tcc tg71 t672 tnj tzx tvk1 t8l t1v1 th11 t1 
-H 235 tgc t38 tjl tlb1 ttc1 ts7 
-H 519 t0g1 tgc tjl t6b2 tmf t5c tcw 
-H 239 t531 tv1 t2m tgp1 tqs tj82 t881 
-V 273 26 t2m tmr tvc1 t141 tnr1 t21 tz91 tjr1 t9x tg82 tg92 t0g1 tft t3b1 tv1 t3q tjc t9d1 t0c tw11 t8c2 t3m1 tj82 
-H 240 t511 tnw tcq t5g t1q tm41 t0l1 tg7 
-V 361 825 tcq t511 tl22 tf42 tz91 t011 H th12 tfk1 tcn1 t4b tw22 t9x1 t0h1 tgn tgb2 t63 tk6 tz82 t9j1 tmw1 tqb2 
-H 241 tb02 t9c1 tv32 tfz1 tp31 t6z1 tfd1 trr tq92 tbn1 t1j1 tm02 tj31 t19 
-H 329 tx4 tfj t9w1 tdn tkb2 t252 t1j1 t82 t2 thf1 tjr1 tv32 tc51 
-H 251 t001 th61 td62 tgn tgb2 tb22 tqv tjc tf2 t3m 
-H 596 tz6 t6z th61 thb1 t7d1 tl6 t672 tqs tf2 
-H 254 tqz1 tbf1 tqq tl62 tm4 t31 t3w t63 t2 tt11 th11 tkf t6z1 
-H 277 thq1 t3g1 t7h tdg t851 t8h1 t63 tm2 t3f1 tmf t452 th11 tf42 
-H 255 tp41 t8n t112 trv twd1 t7d1 t5w1 tm1 t1v1 
-V 471 173 t001 tp41 tl02 t622 tpc1 t3w t7d1 trw1 t1t t5w1 t3b t3l1 t7d tl9 tkr1 tzw tnm t6h tcm tks1 t842 tl51 tlv1 t3x 
-H 258 tv91 t3p t9h t231 t33 tmh 
-V 688 637 t3p tc9 th61 t2m t3x1 H t221 tvs1 t3q1 t33 tq51 tbv tc8 tnm tt9 tk22 t131 tqv t9k 
-H 260 t86 tld1 t8 tj2 t33 tjb1 tnf txg tp62 tqx tgn tzn1 t0j1 t8l 
-H 767 t86 tld1 t5c2 tzt1 tsx tz81 
-H 261 t6d1 tf12 t452 tj91 t361 tk7 tb5 tjc tjw1 
-H 472 tv91 tmt1 tr32 t0j1 t2m tj41 t2g1 tsp tnp1 t232 t9x1 tbc1 tk7 t361 
-H 265 tgj1 t4c2 t34 tld1 tvk ttn1 tl6 t351 tgq t5w1 th52 
-H 516 t06 tzn tq81 tqz1 tw82 tld1 t342 td62 tl6 t4t1 
-H 267 ttk1 tlr1 tsg t7d1 tbj tq52 t2c tv8 tz02 
-H 457 t1r ttk1 t131 tm52 tjt tv32 t821 tj82 tk72 tz02 tpn1 tqv 
-H 268 tx01 tzn t0l1 t81 t342 
-H 435 t0q1 tgb1 txd1 t4s1 tjt t81 t0l1 tp91 t532 t412 
-H 272 ttb2 t561 tht1 t8t1 tz91 t7p t221 t4x1 tss1 t881 
-V 841 943 tht1 tb1 t38 tdb2 t34 tzt1 tqs1 tss1 t4x1 tfk t81 tfz1 t412 t9c2 tlb1 t25 thl trx ttb1 t6g tvl 
-H 274 ts51 ttw1 tr7 tz61 tw52 td82 td22 tcw1 
-H 301 ttb2 tms tl31 tx02 txl1 t971 t3t tdg t042 t141 tss1 ttc2 tcw1 
-H 275 t242 tht1 tqq tvr t882 tzg t9d1 tjt tjj tjs1 tjr1 tn9 t3m 
-V 984 987 tpb2 tht1 t102 td62 tzg tj5 H td71 tcv1 trc1 t242 twp thr tgn t762 t8t1 tr02 tg71 t4n tc22 twl thk1 
-H 282 tnh t1h tjw1 tbj tqz 
-V 860 683 t3p t561 tdv1 t491 ts92 thg1 tqj1 H tbj tjw1 tv61 tjj1 t382 tn3 t332 t13 tch1 tsm 
-H 283 t552 t5v1 tfr1 t4w tt6 tqv t361 tbv 
-V 256 889 tk82 tbm tpc2 t3t tdn1 tdd1 H t05 tkx1 t3m tqc tx1 tnf tx4 tm9 t5r1 t5v1 th2 t362 t0c thj t672 t2t tqv t361 ttm1 tsw 
-H 284 tsj1 ts6 t3g t3w t88 ts31 tvz t5s1 tbv 
-V 614 630 t991 tbz1 ts6 t3w tdd1 tz5 H tb51 tb5 tg7 t4r trq1 twg1 t2m1 t621 t6r tqc2 tkj1 t8l 
-H 292 tpt tkn1 t911 t882 tp1 t3x1 tkp t202 tcv1 t81 tt21 
-H 648 t481 tbh t911 t8h td tdp1 tkp t011 tq52 th11 t6r1 t1 
-H 293 tfc2 tw81 tf51 tj91 tsz tsp 
-H 400 tww tbw tm52 t6q1 tj91 tw52 tzm1 tn4 tkh1 
-H 299 thh1 t55 tqt twh1 tcc t0l1 t0p1 tc5 t6c 
-V 268 995 tvb t991 t512 t342 H twx t0l1 tr1 t81 td tbd1 tzn thh1 tqq t13 tx01 t291 tgp1 tt twj1 
-H 302 t6r tbn1 t232 t131 t2p t641 thn tnj t0j1 tdp1 td1 tkf 
-H 367 t2m1 t93 tx5 tsm tpn1 tdp1 tnj tr1 t861 tzr tb01 t8j t6c 
-H 303 tpr1 t9c2 tmg tw7 tbj t361 tsq 
-V 27 29 tc41 tpr1 tgc ts92 txf1 tn12 tl51 H tx1 thh1 tbb1 tdn tx71 tgb2 tbb2 t8f1 t692 tf9 th1 t361 tr82 tr21 tnl1 
-H 305 tsq1 tdb2 tf12 t7v t211 tzj tb12 tn4 th9 tsw tk91 
-V 343 413 tw51 tgc tzl tms1 t8h1 t2p t141 tj41 tlm tr4 t6d2 thc t7v t692 t161 t2x1 t19 t09 tsw tpd 
-H 308 t2r1 t561 t9w tw92 tfb2 
-H 381 tss t561 t38 tz42 tk61 twf t54 tf9 tcl t2x1 tgv tv8 t8x1 
-H 309 tpc1 tz1 t2z1 tjz t221 tvs1 td22 tbv 
-H 536 tqz1 tpc1 tsr1 tzt1 t291 t9d1 t4j tbv 
-H 311 t2l t771 tc61 tr31 tmj1 tfr1 tnd1 tg71 t452 
-V 746 236 tpb2 tfg1 trb2 t342 tm22 tfr1 t21 H tt6 t7q1 tf7 t3k tsh t862 t85 tv1 tb7 tgn t8t1 t82 thz t161 tbv1 t452 tf01 tsw 
-H 312 tkr1 tjj1 th42 t9q tnj tqv t0s 
-H 803 tb02 t4d2 t302 t711 tg62 th42 thb1 t4x1 tqv tj82 tjn1 tqc 
-H 313 t532 tbm tz21 t2m td32 t351 t0r1 t361 t321 t391 tf21 t4g1 
-V 337 402 tmg1 tgm1 tvd tpc tqf tdv t532 t6r1 tqn1 tjb1 tzm tr81 tkf1 t351 tlg1 t471 t321 tdp tv22 t3x 
-H 315 tv92 t8m t78 tm02 t0c tv4 t861 
-H 332 t4w ts2 t392 t291 t861 tf42 t8w 
-H 316 tdn1 tnd1 t4c1 t2t tpd tbv 
-H 736 tqq tlk1 tdg tdn1 tk1 t141 t2t t3q1 tj tnl tt21 
-H 317 tqk1 tdv tqk tk5 t9x1 
-H 352 t3p1 tgc t3r1 tz42 ttd td7 t9x1 th1 t8l tt42 
-H 319 tvf tbx t2 ttg1 t452 t33 thf t6c1 
-V 797 238 tm7 tj32 tdn1 tgx1 t76 t011 ts62 t2q t7q1 tj t8w t9f1 t921 tvf t771 tnh th62 t3r1 th42 t381 t452 tj82 tdp 
-H 320 t3k tb1 th62 tbc1 tx71 tn6 t19 tlr1 tdg1 tss1 t161 tn01 t0t1 
-H 913 tww t3k tb02 tpc2 tr1 tb7 tgq1 tnc2 ts02 t161 tqs tn61 txv1 
-H 323 tjt1 tns1 tz21 ttc trq1 tsw 
-H 923 t462 tzn tl72 tb52 tz21 tsw tf22 tzg tc11 tp22 tqc tv 
-H 325 tnf t3r1 tqr tb7 t762 t221 
-V 79 118 t721 tlb t912 txf1 tj6 t21 t12 t8c t39 tb7 tv1 t651 tmz1 t762 tcc t2c1 tnj t1b2 tpd 
-H 326 t792 tfr1 tlr1 tvb1 t43 tmn 
-H 348 t1d1 tqp1 tv9 tdc t3z t9h tg71 tbj t7d t0j1 tqc tmn 
-H 328 t7k1 tlz1 tg62 t131 tdg1 trf1 t2x1 t5j1 thv 
-H 671 t7k1 t8f t711 tvl1 tn22 t3v t3q tmj1 t7d1 thv 
-H 333 t2 tz22 t0b1 t0t1 tgb2 
-H 430 t002 tmx t441 tz22 t0b1 ttd tt4 twh t65 
-H 334 t001 twg1 tpr1 tzg thn tbv 
-H 356 tq81 tp41 twg1 t7v tqv1 tkr thn 
-H 340 tv61 tsj1 tf22 t312 tqg1 twn1 
-H 778 t4h thr tf22 tsj1 t63 tf42 t8w 
-H 342 t39 tgk1 t3w td th1 t3d1 t182 
-V 352 438 tlg tgc H tf71 tv32 t0l1 tcl tdp1 tt42 tt21 t2n1 t3p1 t1m1 t3r1 tz42 ttd td7 t9x1 tb7 tgk1 tr82 th1 t8l tnl 
-H 346 tpc1 tl91 tsx1 tth1 tlm tl9 t7p1 
-V 93 763 t7n1 tpc1 t58 t501 t3g thg1 tf42 t0s t221 t7q1 t532 tgm tt21 t6z1 tff tx2 t9h td51 t9d1 tmq t7p1 
-H 347 tz21 tfj tdn t6t ttc1 tvc1 th5 tjq tf2 tv7 
-H 893 t692 t6t tgp1 tv6 t011 tp12 tv7 
-H 349 t3c1 tq7 tvr tk81 tzm trt t1g th4 t3v1 t452 twn1 tv 
-V 82 149 t3c1 tv9 tz22 tvr H tdv t0z tbd1 tfz1 tqc tmr1 t651 tjw tqz t762 tx01 t1q t6l1 t8l1 tr12 tn4 
-H 351 tk21 tzn t862 t9h tnz1 t1w 
-H 357 th42 tsf1 t9x1 tnz1 t1w1 tr41 
-H 354 tqq t7l1 t291 thn tq42 twj 
-V 197 32 t72 t8l1 tqt tq4 tg tn12 t4g1 th81 H thn tv32 tcv1 t5j1 t3m tj3 tl42 tcc1 t692 tzb t291 th1 t5b tbm t5f1 t412 tq01 
-H 360 t001 tnf t7c2 tl2 t501 t9c t322 t63 thv1 t572 td tk2 
-H 473 tr51 t9z1 t4d2 t232 t9c tmj1 t572 t3q1 
-H 361 tcn1 tw22 tl22 t9x1 t63 tz91 tz82 t9j1 tf42 th12 
-V 129 277 t3p thq1 t55 t511 tdg tdn1 t342 t851 t6l tf42 t8h1 tm2 tmf t3f1 H t221 t391 t3g1 t7h t2n t63 tdm1 t452 th11 tmn 
-H 362 tnq tp92 tc11 txm1 tf92 t5q1 td tmb1 t451 
-H 364 tq81 tr51 t4d2 tc21 t1r tz21 tqf tvf1 tnj t5q1 t221 tqb2 
-H 369 t541 thr t9c tdg tzt1 tf6 t82 tm3 trx 
-V 66 94 ttp1 tt72 t7r t4c2 tf6 tdn1 tb01 tvc1 t2l1 thn tv32 tl52 t661 tzw t541 thr t5j tn91 tzr1 tbm tz02 
-H 374 t3c1 t6 t492 t8l1 tfz1 tm8 
-V 480 182 t3c1 tpr1 tvb txx t791 t76 H t881 tqc tms t3k t7l1 t871 trt thb1 tz9 tgp1 td51 tkx tlz tbv1 t8l1 tc3 tf2 tsw 
-H 377 tgb tbt1 tj8 tbv1 tw52 tfz1 t7p1 
-H 425 tl3 t34 tp8 tz91 td tz02 tfz1 
-H 378 tpc1 t19 tv81 tgt1 tpj1 ttc2 tjs1 
-V 896 695 tpx tpr1 tp82 tdg t3v t7d1 H tn51 tqc td7 tv1 t5v1 t4g t381 tmj1 tr5 tr02 t8b1 t1v1 t19 t412 tjs1 
-H 379 t5r th71 tnx t9c2 tmf tr82 
-H 389 tt51 tl3 t1s1 t3r1 t5g td32 t832 t1g tmf tqs tfc1 
-H 380 t4l thj1 t2q t6g t1v1 t111 trc1 
-H 530 trn t0h1 t66 t692 tz61 tlf1 tt1 tzm1 t1v1 tn51 t6s1 
-H 391 tmh1 txg t7c2 tbn1 t3g thb1 tdg1 t74 tv32 tdc2 
-H 908 tp62 t55 t68 tx41 t3w t7g1 t74 tv32 
-H 396 tn3 tlb1 t592 th8 t6k1 t69 tn81 t4t1 tf42 
-V 10 78 t2z thd tmj tj41 H th82 ts3 tv8 tf21 t4r t8w ts1 ttb2 tlb1 tfj t692 th8 tpb t1z1 t582 tr02 tmc tw6 tsl th11 tr41 tb82 tft1 
-H 397 t38 t7c2 t5v1 t2j1 tn21 t452 
-H 623 t4k1 tkl1 t38 t5b1 txf1 thg1 tj02 tc tw11 t452 t412 t021 tqc1 
-H 404 th71 tgc tnc1 tqz tc11 tll1 tvs1 tn51 txk tdp t1 t8w tc51 
-H 546 t6f tqr1 tz22 tmd1 t051 tww tm51 twg1 t332 tqz tjm1 tqv tdp tt32 
-H 411 tjh tl72 tm21 t882 t162 t5s t88 t802 tn81 t572 tpn1 twj1 
-V 963 503 tqr1 tkl t9r1 tt t3t t9c1 tx41 t601 tq22 H tn81 tbj tjp t6r1 trw tk91 t412 td41 t882 t8t1 t162 ttc 
-H 412 tl3 t271 t8t1 tgs tkg t161 t572 
-H 584 tp41 t3p1 t5c1 t0w1 t692 t8t1 t8h1 t161 t532 t1 
-H 416 t6z t511 t591 t7d1 tz61 tx11 t171 tjc1 tc42 tsx t2x1 t861 tf42 tmp 
-V 665 414 tvr tp11 t591 txt1 tr2 tvc1 tf02 tz61 tv32 tcl t032 t232 tg61 tf12 th2 tgp1 tcc t4n tqv t2x1 t8l t861 tsw tws1 
-H 420 txk1 tls t0l1 tcw1 thg1 
-V 454 817 tpb2 tvk thg1 tn12 t8h1 tb62 t4x1 t0l1 t4d1 t33 tkr1 tr42 t432 t332 tpp1 tvh t131 t961 tr02 t672 th11 tf01 tnl tq01 thk1 
-H 421 tb92 tfj th42 t692 tbw1 t672 th11 tdp tsw 
-V 199 555 t55 tp21 tw81 tk61 tr52 tf42 H ttl1 tb5 t0t tbw1 tq81 tr42 tts1 t0p tjt1 thr1 th42 tx71 tb7 tpq1 t8b1 tlv1 t7p1 
-H 429 t8t twg1 t8f t0b1 t13 tbq tvb1 tkg1 t011 tg52 t1p tz4 
-H 550 t3c1 tfc2 t34 t2m tg52 tn51 t0h tzn t2m1 tc21 t13 twb2 t3q tn61 
-H 431 t4p1 tp02 tm42 ttb1 t622 t8k 
-H 712 tl31 t511 th92 tx41 t1j1 t84 t74 tm42 tnj t622 t19 
-H 436 t6z t2d t8h1 tjz tj41 tf71 t161 t471 tk02 tv22 
-V 973 915 tht1 t6z t8h1 t76 tn51 tdp1 ttg tpn1 tr6 tsq tqq t3r1 tm9 tdn tpb tst t161 tbv1 t471 twn1 t412 
-H 439 tl72 tb8 t692 tzb2 tg71 tq52 tzr tqc 
-V 785 156 t55 tpc1 t0f1 txf1 t1j H tkv1 td71 tzr t64 tm9 t5b2 t692 tzk1 tsd1 t572 th11 tz02 t311 
-H 440 tl3 t8r1 t562 tpc tc11 tns tk6 tgc2 
-H 719 tq21 t17 t2m tpc tgb2 tls1 tt11 t3h tgc2 
-H 441 tnf tjz tjt th1 t802 t4d1 
-V 259 894 t7n1 tdb2 t561 t511 t86 tt32 tr2 tfq thn tf21 tjc2 tnf tjj1 t6p td41 ttt t0w1 t6t tf2 t702 th1 tk6 tqv t861 twz 
-H 446 tbb2 thb1 t0c th5 tb5 tk6 t33 tk 
-H 924 tlj tp41 txg tcb1 t39 trv t0c tt11 t361 tb5 tdc2 tt21 tsw 
-H 448 tfc1 tl6 tn81 trd1 t6b1 
-H 533 t7n1 tht1 t8d tdp tzg tx01 t622 tbm trd1 t2v1 
-H 451 tvz1 t4d2 tpc1 t991 tg62 thc tgl tpg1 t8l txp tf2 tcw1 
-V 140 339 t2r1 t991 tmg tkt1 tmf H tpg1 t61 tw21 t4d2 tfw t3r1 t13 tm9 t9n1 tgn t1s tr5 t9d1 tm52 t2t t1v1 tjs1 
-H 453 t511 tqd t6j1 twd1 tsd tz82 t471 
-V 213 619 t6f t002 t6z t511 tjk t471 tld1 tn12 t76 H tj41 tpg1 tcv1 t532 tvs1 t8w t9j1 t1m1 tlz1 tlr1 tls1 t8b1 tl51 
-H 456 t8v1 tn71 t4q1 txd1 tqz tm9 tk31 t6w t5h1 t5r1 tg7 
-V 262 112 t3c1 tl72 tz22 tn71 tzt1 t911 ttn txf tc72 H tf71 tg7 thc1 tf21 thr t39 tgn t9d1 tj82 t1v1 tn4 
-H 460 tm81 tg91 t34 ttw t5m tv81 tq52 tbm tcj 
-H 654 t242 tdl tdb2 tm81 tkj1 trt t1d tkb tw62 t3m t5w1 tbm tp52 
-H 462 t0b1 tx71 t1n tx41 tvk t762 tdm1 tl1 td92 t532 tsq 
-H 707 tdb2 tr61 tv1 tvk t78 tjb1 tcc ttm t281 tsq 
-H 463 tc61 tq3 tqh tsr1 tjt tkx tqv tt82 tc6 t3x1 tpd 
-H 727 tp62 tvw1 tvp tz9 tt82 tn4 tmp tpd 
-H 477 tr5 thb1 tv9 trr tjf1 
-H 559 tv61 t002 trr t6h tk22 td32 tr5 tkp1 thn t9q1 tsb1 tf01 tkf 
-H 479 tv61 tfc2 trr t512 tkb2 t5 t3j1 t3v1 tcl tx91 t6r1 tp7 
-H 761 tgc tfc2 th61 tds1 tmv tcl t3m t3p1 txg tmj1 tjr tg5 tz02 ttj 
-H 480 tpr1 tvb t7l1 txx t871 t791 trt td51 t76 tkx tc3 tf2 tqc 
-H 604 t7n1 t8n tf2 tb62 t76 tkg1 tt82 tz31 twn1 
-H 485 tvb th61 tg62 t2m thb1 tkf tq82 twz1 t6k tcv1 t2f1 tbs1 
-H 921 t7n1 tjj1 th61 t351 t1w td31 tr02 t212 tkf tpn1 
-H 486 t3k tx72 thr tdb1 tqk1 t782 t051 
-V 200 318 tpr1 tt72 tgc tm4 tmk tx42 tq02 tdz tc2 tqk1 tm t1z ttw1 tht tft thr t1g1 t741 t0k tz9 tw11 t74 t7j1 tn4 t1 
-H 488 ts91 tt71 tm5 tdg tsr1 t141 thp1 tqk1 td21 t032 tlb1 t9g1 tsw tf61 
-V 64 728 t561 tht1 t512 tdg t2 t141 t011 H tq22 tf21 tlh1 t3l t412 trm tgp1 th11 t2x1 t622 tn4 t5f1 twj1 
-H 489 tfc2 tgx tgd tlp t86 ttc ts42 
-V 397 617 tfc2 t38 ttk1 t0j1 tn71 t86 ts92 tpc t141 H t7c2 tbd t5v1 tlw1 t0h1 t2j1 t2t tn21 t452 t7p1 
-H 491 tfd t9h t6t tc81 t2 t88 tn32 
-V 42 51 tgt1 tn12 t8h1 t88 tvc1 H t5w1 t4x t4t1 tw52 tj9 tp7 ttb2 tkr1 tz8 thc t2f t1j1 t6t tz02 
-H 493 tvc1 tq91 tr82 tzm1 tsw 
-H 551 tnj1 tfq1 tvk tqv1 t8h1 tvc1 thp1 tnr1 t0j1 tzm1 tnl tqc 
-H 499 t001 t4n1 t5p1 t2m t3w tn12 tf8 t4x1 t5d2 tz32 tjs1 
-H 723 tpb2 t001 t0x tgt1 tn12 tgj tc51 t6r t4n1 tnv ttf tz82 t622 t1 
-H 500 tmb t232 tsj1 t0h1 txf1 tr2 tvb1 tt11 tk6 tt21 tc8 
-H 647 tt72 t9q tt11 t3q1 tk6 t881 
-H 502 tn3 t4n1 t38 t34 t78 tlr1 t3v1 tb5 thc1 t021 
-H 830 tww t0r tw tx6 ttt t78 t1j1 tlr1 tz9 tsv1 t011 tw11 
-H 504 twv t002 t711 tfj tfb t2 t0n1 t282 t2x1 tz02 twz tt42 
-H 728 tht1 tdg t2 tq22 tlh1 t3l trm tgp1 th11 t2x1 t622 tn4 t5f1 t412 
-H 506 twg1 tpr1 t861 tn6 tcb 
-V 392 150 tb02 tpc tz11 tgt1 tqg1 t9 tm42 tlm t212 tch t242 twg1 tp62 t59 t41 tqh tql tk52 t872 thb1 t9d1 tg71 tz82 tj82 t861 tn4 tq01 
-H 507 tcn1 tz22 tgx tbn1 t2d1 td32 tzg tt4 t4x1 tph trk 
-V 740 430 tw8 t002 tz22 t0b1 t141 tx92 H t4x1 tsv1 tdb tpg1 t171 thb t0r tmx t441 ttd tt4 twh t65 t1w tvs t8l 
-H 508 tww t4d2 th61 t852 tsv tzk1 t4w t1z1 thv1 tqk1 tm42 t542 t33 
-H 539 tp5 t4d2 tpr1 tm91 tb7 tb8 t291 tbx1 t91 t4t1 t33 tc51 
-H 509 td02 tc21 tdb2 t8t1 tm02 tcc tzx thn t471 th11 trj t1 
-H 557 tdb2 t4w t5m1 tn7 t4t1 tmd1 thc1 tgr1 td41 tz21 tmz tm02 t2s1 tcc 
-H 515 tzw tc21 tc61 tr9 tx51 t3z1 
-H 569 t64 tg1 tzw tkt1 tmj1 
-H 520 t5t tld1 t0h1 t3g t522 tnj t8l1 
-H 867 t67 t041 tlz1 t8n tld1 t9s1 tdg1 t221 t0l1 t8l1 tpg1 t4g1 tz81 
-H 526 ttb2 t64 t621 tb9 t8n tf41 tg7 t661 t9k 
-H 939 ttb2 t621 t33 t771 t3b1 tdf1 t7g1 tvc1 tr02 t662 t5f1 tj tsq 
-H 531 td32 t6n1 tcl tf01 tjn1 t4g1 
-V 71 108 t001 t002 tl72 t922 t3t tfr1 tgt1 tjg1 t4g1 tkb1 ttm thn t4d1 tt82 twp1 tg6 t6c tqx t74 t6n1 tbm thn1 
-H 538 tf81 tfb1 tpw1 tzk1 tt11 tv8 
-H 570 tr51 t2m1 tfb1 tcf1 tkk tm02 tzh1 txh1 t19 tqc 
-H 540 tbf1 txg twc2 tln t3s1 tq01 t7p1 
-H 549 t242 txg tm81 tds t992 td4 ttc tm42 tkg t1c2 tq 
-H 541 tms tg3 tjl t6h t1r tk61 trf t8b t672 tnv1 t6j tnl 
-H 942 tk61 t95 tb41 tls1 t2 tb12 t6k tjd tn82 t2x1 td21 tnl tpz 
-H 554 t5z1 t55 tb71 t102 trx t5t1 t9q1 tng1 tg7 tt21 
-H 560 tj71 t762 tkd t1w t9q1 tw11 t8b1 tv22 
-H 555 tr42 t0p tjt1 tw81 tk61 tb7 ttl1 tpq1 thr1 t0t tbw1 tf42 t7p1 
-H 561 tht1 tbp t4q1 tmm t882 t21 tcc thn t262 t3q1 t881 tf42 tcr1 
-H 556 t462 tzn tv32 ttb1 t9k tm32 
-V 341 152 t9l1 tbh tm7 thp1 tdl1 t532 tt82 tn52 tzr t7d thm tv tc61 t7s1 t9d1 ttb1 t9k trk ts01 
-H 565 t7n1 t012 t882 tz51 tpd1 t1q t5f1 t1 
-H 732 t7n1 t002 tm71 t4p1 t2 txr1 tkq tn81 twp1 t92 t5v1 t361 tvq t5f1 
-H 574 tww tpc tz61 tm42 tpq1 tbs1 tk71 
-H 807 tms tww txg td62 tpc thc1 tg6 
-H 575 tp41 tx71 tsg tm42 t0l1 tjs1 
-H 802 tz22 tfc2 tzt1 tgt1 t0l1 tfz1 tgc2 t7k1 tsg tk31 t082 t351 t471 t7b2 
-H 588 tr51 tb91 t8l1 tm81 tfx1 tvc1 tpn1 t731 tpb t0k th8 t452 t7w tt 
-V 347 415 tvp1 tsj1 ttc1 tvc1 H th5 t5f1 tjq tv7 tpn1 tq81 thh1 t3r1 t13 tz21 tfj tdn t6t tj4 tzk1 t311 td82 t7w tf2 
-H 591 ttz1 tzn tn12 tl61 t5w1 tlm txm tjc 
-H 964 tzn t481 ts51 t4n1 t8j t7d1 t8x tj41 tgh1 tlm tr82 trk t8w 
-H 592 t9z1 tbz1 tf11 t0d th11 t7p1 
-V 107 249 t9z1 txx1 t091 tgq1 tsr1 ttc1 tl6 H t76 tjr1 tw71 ttv t4r tnm tjx1 tf22 t9h tx01 th11 thw1 t5f1 
-H 593 tk4 tv21 t6q1 tdg1 t641 t7j1 t361 tqd1 
-V 840 466 t561 t6x tdd1 ttc1 tl6 thn t7q1 t4d1 tqc tsq t972 t0c2 tv62 tdg1 tvm tgp1 t361 t2x1 t7w 
-H 594 twg1 t93 tkn t1j1 tz9 t3j1 tj41 t802 t0l1 tw52 t19 
-V 74 114 tbk tdb2 tfj1 ttr t2h1 tbt tj41 H thn thc1 tpn1 tv tqh td7 t1j1 ths1 t4m1 trx tq6 tf01 t412 
-H 597 t64 tv9 tb31 thp tm7 tsv1 tpg1 t0t1 t5s1 
-V 18 179 tr51 tl72 t002 tm7 tx41 t271 tcb2 tsv1 tvv1 H tzp1 tlm tf7 tjx tq81 tms t332 t13 tpq t572 tl21 tr82 t5r1 t9k tjs1 
-H 605 tq81 tzn tlz1 tz91 tkw1 tj7 t8l1 trk t8j 
-V 226 744 tqz1 tpx1 tdb2 t8l1 t991 tsc2 tbz1 tld1 tz91 ttb1 th31 t011 t221 t4x tlm tm42 tdc2 tqm thh1 tjl t381 t672 t9j1 
-H 610 tgr1 tb91 t771 thc2 txx tlw1 txf1 tdd1 tnj tq01 
-V 668 800 ttk1 th61 thc2 t991 t9c1 txf1 t4t1 t7d t6d2 thk t9f tvh tpb t291 tzk1 tbk1 t691 t0j1 twn1 
-H 611 t38 tpn tlt t9q1 t7d tbj t7p1 
-H 741 thh1 t38 t0b1 th1 t7d t8b1 
-H 613 t9k tq21 tt t82 t7r1 tz9 t1f t1g tg8 tn4 tzp 
-V 4 8 tz41 t561 t892 tld1 tsj1 tv81 t3t t911 tdd1 t76 H t4t1 t6r1 tlf t2m1 trn tc61 tm9 tcd tpb tr5 tz9 t9q1 tl51 tk6 t1 tt 
-H 614 twg1 t2m1 t621 t6r tqc2 tbz1 tkj1 ts6 tdd1 tb51 trq1 
-V 625 627 tpb2 tpr1 tt72 t8n tt02 tn12 tq02 t0s H t32 tz61 tkc tv32 t28 tvs1 t6v t2m1 tsq1 t332 t6r tjm1 tbx1 td31 
-H 621 tdn1 ts6 t0h1 tcv1 tss tt22 
-H 656 tr51 td6 tq61 t39 tzw1 tcv1 t33 tt32 
-H 626 tjr t011 t512 tjq1 t6t 
-H 629 t432 tw81 t512 t1j1 tpb t152 t6t ttc t8s tt21 t3m t391 
-H 627 tpb2 t332 t6r t8n tt02 tn12 t32 tz61 tv32 tvs1 t0s 
-V 723 58 tpb2 t001 tsp1 t0x tgt1 tn12 H tgj tc51 t6r t4n1 t6x1 tcl1 ts21 t84 t1 tnv ttf tz82 t622 tq62 t0s 
-H 639 tpx1 tj41 tgg tl81 t3q1 
-H 706 t181 tpx1 tk82 t8w1 t7f t622 twk1 t312 tr02 trx tr1 t452 tn51 
-H 640 tjm twc1 tfv tt11 tv52 t3 t8l t6d2 
-V 832 676 tp72 tpr1 tfb1 tm7 tfx1 t4x1 td tlm t6d2 txm tck1 tbl t711 tqh tdn t8t1 th1 tgg t8l 
-H 641 tww tp41 t561 tfc2 tkq1 tmc t9q1 t35 t5k tdv tpg1 
-H 992 tqp1 tpb2 tk82 tpr1 tfc2 tp41 thc tqv1 tpc tt01 tqs 
-H 642 tkt tf81 t66 ts92 thk1 
-V 263 116 tqz1 tmt1 t86 ts92 txq t0c1 tcw1 tv7 t66 tv61 tnf t711 txj1 t9s1 tpb tm3 thb1 ts31 t161 tqk tr82 tdp 
-H 645 tm81 tvr tkt1 tdv ttb t57 t64 twp t6h tdz1 tf72 tr02 tt11 t7w 
-H 983 t6h tvr t7l1 t3n tgl tnj tp81 
-H 646 t351 tm81 tqx t551 txf1 
-V 903 583 t3p tm81 t34 t3t tx41 tvk tzq t2q t4r tj1 tzw td41 tbn1 tqx tbq1 t46 t7v t0k t26 tcc t411 tmp 
-H 649 tq12 th1 t86 t1 td32 
-V 982 507 tz22 tdb2 tk61 tld1 tzg H t4x1 tz61 tm42 tpz1 t9x t242 tcn1 tgx tbn1 t2d1 tt9 t3q td32 tt4 tr21 tph t1 trk tpd 
-H 650 tr8 t64 tfc2 ttp t7x tf42 t521 t0c t5f1 tt21 
-V 264 924 tp41 tm7 H tb5 tnp tdc2 tt21 tlj tc21 txg tcb1 t39 tcl1 trv t4m1 t0c tt11 trp t361 tsw 
-H 655 tjj1 t122 t0w1 t7d1 tq12 tfz1 
-V 776 144 tpc1 tmg t512 t0b2 t5d1 t7d1 tjt H txd tv4 tfz1 tvq1 t1x t061 twt1 t8f tgh t2t t9q1 tcv 
-H 658 tcn1 tn3 th61 tw11 tt92 t81 t421 
-V 525 866 t561 t55 txx1 tm7 ts92 tpp t81 tdp1 t1v tc5 ttb2 tn3 tjj1 tpp1 tst tzd tgp1 tdm1 tv02 t1 tqv 
-H 663 t001 t1s t4m1 t76 twr tpd tvs1 t1v1 tf2 tv 
-V 856 478 t002 tt72 tvr tdg tdn1 tf42 t2 tvx1 tgf tvs1 t0t1 trq1 tv t1v1 tnf tfg t012 t762 tqb2 t7f1 t7w t7b2 
-H 667 tqz1 t651 t7x tfr1 t292 tw11 tjs1 
-H 682 t3k tqz1 tz9 tn81 trs1 trr1 td82 t602 
-H 669 tgc t88 tbj t752 tqv tss1 t812 t4r t7s 
-H 865 t242 t181 tgc t3d trt tss1 t8 t49 t9g 
-H 672 t3c1 tc32 trr th61 t322 t141 tbs 
-V 155 372 t3c1 tht1 tz22 t38 ttk1 tpc1 tfc2 tbm tdg tpr1 tx41 t3k1 tq12 tt6 t0s t7d tgj t4r tcw1 t3p1 trr tk31 t1l1 tz82 tv31 t8g1 tkf 
-H 677 tfz1 tc61 tpm1 tp42 tqf tb81 t9q1 t0l1 ttb1 t81 tnl t8j 
-V 345 820 tb02 tz22 tp21 tw81 t2m tq91 H tbj tjr1 t0l1 thg t881 tn3 trt trv tc91 tpb1 t9j ttb1 tz02 tnl tkf 
-H 678 tb02 t0j1 t9c1 tx51 tt6 tcv1 
-H 747 t0j1 tpc tpb tl21 tcv1 tc5 
-H 679 t242 t8r tnx tbz1 ttl t5n tpj1 t351 t802 tj82 tt82 tl9 
-H 819 t4h t9c t81 t0r1 t2x1 tj82 tl9 
-H 680 t4d2 tqx ts92 tf42 t8t1 tl5 tt 
-V 685 881 tf91 tgc tp82 tsj1 ts92 tgt1 tb62 tk1 tn51 t6h1 t252 tv1 tt41 t8t1 tm52 t161 tfh t7p1 
-H 687 t3h1 tqh th91 tvb1 ttq thj1 tbj tr82 t4g1 
-H 692 t9f1 t2q1 t232 t6k1 tbj tq52 ttw1 
-H 690 t3r1 thr tg61 t3d2 td51 tp4 t032 
-H 729 tpb2 t242 tnq1 t0g1 tdp th7 tb7 t8z1 tpb t2c2 t031 t032 
-H 691 t1r1 t6c2 tw11 tqk1 tqs 
-H 771 ttz1 tq21 tfd t461 t9b2 tn81 t4d2 t0d1 tks1 t762 tx01 tw11 tx31 trk 
-H 693 tjh1 t3c tsm1 t0v tcv1 tt82 tcn tq32 
-H 836 tl01 t042 tmf tlm tcv1 tn51 t4f1 t242 trr tz42 trm tqd t5j t452 
-H 694 t002 tzv tb11 tg7 t9h 
-H 722 td81 t002 tlz1 t031 td62 
-H 702 tht1 t511 t392 tbj td tdp1 tqc 
-H 888 tk82 tnm t511 t13 t4q1 txj1 tnt trx tx11 tdp1 
-H 708 t3c1 tft tz42 tb7 tzx1 t11 ts72 tl71 tj82 tj3 
-H 886 t041 tb7 tfr1 thg1 tdr t131 t4x1 tcm1 tj82 
-H 713 tp21 t8n t9p t8h1 t76 tcj1 tg12 
-V 153 306 t462 t6z t9p t76 tzc1 t4x t7q1 tvs1 t881 tp32 t181 t3p1 tqh tb7 trl t1l1 tj82 t9k 
-H 718 tqq t4d1 tq2 tr5 tgp1 tt11 thx ttz t0j1 tbc 
-V 88 39 t0j1 t401 tgt1 H tpt1 t12 t81 t212 trq1 tnp1 tv61 tqq t932 tv1 trj1 tqz t971 tdq th42 tk22 th1 t351 tvc2 t4w1 
-H 725 tr32 t921 t0g1 tb tfj th8 tr5 th1 th6 t7j tg21 t361 tt3 t861 
-H 907 t921 t55 tgb1 tfj tbz tfp thp1 tvs1 tgj tf2 t3x1 
-H 730 tpr1 t561 trm tdn1 t141 th1 
-H 733 tc21 t701 tm32 t141 t5q1 tn51 tjs1 
-H 734 tr42 tvl1 tf41 t1 tvj1 
-H 852 tr42 t532 t2d t0c t76 tkx tkc1 tdp1 t6z1 
-H 738 t6m1 tv1 trt1 tm7 tn5 tb5 
-H 786 t3c1 t181 tx1 tp21 tv1 tm52 tv02 t2r t5f1 
-H 739 tzj1 tlw twc2 tfp tsj1 tsg t7v1 tc2 t4b1 tpg1 t452 ttw1 t1v1 
-V 487 885 tvr t3g t76 tn81 tpg1 tn51 ttw1 tc02 tvh tsg t6t tsd1 t4m1 tgp1 t63 t49 tbv1 ttb1 tlv tft1 
-H 742 t462 t7n1 t4d2 tlx t8h1 t622 t6d2 
-H 951 t7n1 t1c1 t561 t2m1 trt t6t t8h1 tm02 tp6 t6d2 tqc 
-H 748 t8v t621 tbw t172 t73 
-H 906 t3c1 twp t621 t8k1 t232 t5m1 t4d1 twz tt21 
-H 754 t002 t75 t692 tzh t12 t471 tbm thc1 tt 
-H 926 t1f1 t002 t86 tf11 t2k1 t2t ttg1 tgr tk6 thc1 t391 
-H 756 tts1 t7c2 t2d2 th8 t7j1 tmf tj91 tk51 ttb1 t33 tns tc5 
-V 146 344 tv81 t8h tr2 tmf tj91 t7d t7q1 t4x t0t1 t212 tg7 tm92 t711 trr tqh t7t1 t3q t77 th8 t6w tlc1 t361 ttb1 t8l 
-H 757 tm91 t512 ttd th32 t6l t2n tvb1 tj8 t161 t7g twz trk 
-V 405 539 tlg tpr1 tm91 t991 t3g tvk t91 H t4t1 t33 tp5 tc51 t4d2 tb7 tb8 tlt1 trv t291 tbx1 tj8 tlg1 tqb2 t412 
-H 764 tl31 thh1 tf52 tcj1 tqv tqc 
-V 449 803 tb02 thd tg62 H t4x1 tqc t4d2 t3p1 t382 t302 t711 th42 thb1 thw1 tj82 tbm tjn1 tqv 
-H 766 tts1 tq91 tm81 ths tt31 
-H 784 t332 tpt1 tm81 t74 tbm 
-H 772 tj52 tsw1 t8z1 tk22 tq52 tn51 
-H 779 thd twv1 t512 ttc1 tr1 tpg1 t212 tsr tk22 tc42 t162 t1s td51 tt 
-H 776 t8f tpc1 tmg t7d1 tgh txd tv4 t2t 
-H 880 t2m1 t6h th61 t592 t4z1 txw tpb t3w tj41 td01 t2t tjr1 
-H 777 tl72 tjl t58 tq21 tvr ttd t5p1 t27 t9g1 tbj tv02 tlm 
-H 812 tq21 tvr t931 tt9 tpb t011 tf01 tdp tt21 tbv 
-H 780 t681 tn3 t481 t4x t7 
-V 458 366 tb02 t481 t3g tgk tpv1 tvg1 t5k tgj tsp tjb1 tv2 tn3 tv1 tlk t23 t1s tgp1 tsk1 t0j1 t1t1 t861 
-H 785 t55 t0f1 tzk1 t572 td71 tzr tz02 
-V 204 101 tv9 tl72 t55 t991 tn82 t851 t83 tx12 tzq t5w1 t4x1 th82 t6r1 t4r tlj tqz tgn tx51 tst t291 tzk1 tgp1 tm52 tr02 tnj twg tnl 
-H 787 t0g1 th42 trx1 tmj1 tw11 tf01 tz7 tt8 
-V 330 812 tq21 tvr tdp t091 t1b1 tl6 H t011 t7d t391 tt21 tbv t242 tjv1 t931 tt9 th42 tpb tw11 tks tbm tf01 
-H 790 tkl t6d txf1 tc11 td51 t0f t622 
-H 839 t3c1 t9x1 tc11 t1s tq01 tkc1 thc1 tm32 
-H 791 ttz1 t9c t5v1 t3w tvb1 tb01 tq01 
-H 850 ttz1 tqq tvr tvh tx51 t74 tkc t4t1 
-H 792 tvf tlz1 tx72 th42 tb8 ttc1 tpp tgn1 t202 td tpr t6c 
-H 831 tqz1 t7k1 tzl tm81 trr tb7 td32 tgt1 t4w tpr 
-H 804 thc tnc2 tcc t1l1 tss1 tpz t6r1 tsp 
-V 721 220 tv9 t4p tt6 H t4r tww tvf tp9 td7 tfq1 thc tzb td51 t1l1 t4 ttb1 th52 t19 trk tq01 
-H 809 t732 th61 t512 twd tmp1 t1w trc1 
-V 757 444 tbh1 tm91 t512 tmt t6l twz H trk tq52 tvs1 tbw1 tc6 t7g t6z1 trc1 tm82 tft tc61 ttd th32 t2n tvb1 tj8 t161 tvc2 
-H 811 t682 tlb1 t9k1 td7 tnk thg1 tzd1 t4r 
-V 898 612 tzl tz22 twv1 ttk1 tz12 thg1 t011 tg81 t4r t6c tl31 t19 t9h tgb2 t6w t74 tz02 
-H 815 tht1 t771 tn71 t2 t4k trk tm42 tlm tkf 
-V 355 447 t682 tnk1 tgd t452 tvh1 t2 tx12 tl6 tz61 tm42 tlm t4d1 t6c t5r tr81 tc61 tfq1 td32 tmf1 tdm1 tlc1 t8b1 t5f1 
-H 821 tww tl31 tjj1 tpk1 tmf t3j1 t351 t8l tp12 
-V 589 422 t55 tw72 ttx1 tr72 t0l1 trb1 t1p1 tl31 tjj1 tqq txc1 tb7 td7 tgk1 tm9 t351 t691 tr82 
-H 822 tpb2 t8h1 tt4 tk51 tcw tsz1 tg9 
-H 843 tpb2 t511 tps1 t7w1 t7q1 t4r 
-H 823 t34 tld1 tv81 t5l1 tjj tkc1 tnl 
-H 844 t4r1 tc82 t651 tm7 t5l1 txk1 t161 tkc1 t031 t5v 
-H 826 tq81 tv9 t891 tz42 tsg tq91 tsw 
-V 795 229 tqz1 tz72 tv9 txb thk1 t3t t2w tdd1 tq91 H tdv tcv1 tzm1 t0t1 t881 t3m t7k1 tft tfj t3f tv02 tc7 t9k tqv 
-H 827 tsq1 tgc thc tcf td62 tx01 tg32 tmx1 
-V 475 375 tl7 tp t0f1 td62 tvk txf1 tqf tn72 t4c1 trp1 tf01 tzr thc1 tvh tx01 twd1 t9d1 t311 tqb2 t2t ttc2 twz 
-H 829 thc tn92 tr2 tjr1 t221 tvj 
-H 878 tr42 tc82 thr t2b1 t4m t221 tjr1 t532 t1v1 tt 
-H 842 t101 tz1 tfm tn8 txf1 tz9 t7p1 
-H 922 t242 tf91 thh1 tlz1 tsm1 tpb t3w tnj t7p1 
-H 845 t64 t38 tb42 t1j1 t69 tnj tf71 tp2 twz t412 
-V 520 52 tld1 tcf tv81 t3g t522 H tf71 tzn t3b1 t5t t25 tbc1 t9s1 t0h1 tsg th8 tcc tv41 tnj t8l1 
-H 848 t38 tng t0f1 t54 tcl t5s1 
-V 657 726 tc82 t38 t512 t0f1 t8h tn81 tr1 t6d2 tf21 t3p1 txq1 tvh t5v1 tj42 tr5 tcc th1 tnj tfb tj72 t5f1 
-H 849 tr51 t332 t6r t372 tj41 t241 tr82 tt82 
-H 851 tx1 tnm t7v1 thz thp1 tf71 t7q1 tr82 
-H 854 t002 tnx tf62 t1q t1k tt3 
-V 751 434 tr71 t6x t34 tqv1 t7d1 tvx1 t21 t861 tlm t0t1 tl92 t64 tnc tq8 tzw t2t1 t822 t1q t0j1 tc3 td42 tft1 tpd 
-H 855 tw tk61 tz21 th42 t4z1 tzk1 tqw1 t5w1 tjw1 tcj1 t1v1 t0t1 
-V 130 542 tx22 tv9 t991 tst1 t11 tzt1 ts71 t5w1 twq1 tt82 t5v tjb1 tlz1 t4g tzk1 t89 tz82 txp 
-H 859 ttb2 t312 tlz1 tq52 tr82 
-H 874 twx1 t0g1 tm81 twz t91 tq52 t4r 
-H 863 t721 tf81 t8j t5s t5w1 tj8 tt82 tq51 tz81 
-H 887 t941 tmt tr5 t8t1 t43 t1r1 tlf1 t8l1 tt82 tf01 tt21 t3m 
-H 864 tnb tgc tp21 t3g1 tqx1 t3t tms1 td92 tpg1 t881 t311 tjs1 
-H 997 thh t3b2 t311 t452 t19 t881 tpn1 t6c 
-H 869 trm tmt tcc2 tz61 tz82 t8b1 t311 
-V 719 977 tq21 t17 t2m t911 tpc tfr1 H tz61 tbj t7d t3h tgc2 tkr1 td41 thc tgb2 tls1 tt11 t8b1 tph th41 t421 
-H 870 tbp1 tx8 t701 t2w txq trz tqt1 t76 t4m1 t4g1 
-H 970 tms tp41 tj92 tx71 tqz t7x tdd1 trz t3j1 tjr1 
-H 875 t511 tw42 tfb1 twz tqk1 tsz tbm tjb 
-V 80 759 tkz tfb1 t7d1 thp1 tn81 tcl t81 tww t921 twg1 tjl t9x1 tx51 t63 th6 tj82 t9k twz tkf 
-H 877 tqp1 tfg1 t001 txj tt72 tdk1 tld1 tx51 tnc2 t26 tn81 t8l t0g 
-V 469 171 t0b1 tld1 tdn1 tcf t2v t7d1 tt6 t7p tgj trc1 tb9 td7 t762 th8 thz tt4 tqb2 tqs t8l t7w t19 tkf tq01 
-H 889 tk82 tnf tqc tm9 tdn1 t5v1 th2 tdd1 t0c tkx1 t2t tbm tsw 
-V 231 568 t462 tk61 tvp1 tdd1 t292 t7d t532 thc1 tx51 t5v1 tgb2 t191 tx01 tt4 t2t t861 t031 
-H 890 tvr tk61 tbh tt7 t4s1 tvc1 tmq1 tq91 tzp1 t4r tq31 txj1 tbb2 t8l 
-H 899 tkr1 t3p tts1 tvr t7c2 tvh t2m tzg tgp1 tbm ttg t4r 
-H 895 tmj1 tn12 t35 t0l1 t212 ts8 t6z1 
-V 847 243 t7n1 tkl tzc2 tcf t632 tf5 tn12 tb62 tsv1 tpg1 t1n t391 tzr t6r1 t3k t412 tft tdn tf22 tvh tmj1 thb1 th1 t161 t452 t5r1 tf42 
-H 896 tpx tpr1 td7 tdg tv1 t3v t4g tr5 tr02 tn51 tqc 
-V 494 887 t3p t941 tmt tv81 tzg t1r1 t43 tl6 H tv32 tn51 t212 tt82 tt21 tqc t3m tlf1 ttd tr5 thb2 t8t1 t8l1 tf01 twz t4g1 
-H 900 tsp tw91 tvx t852 tw61 tks1 tkj tjt t5r1 tdp t7k 
-H 962 t481 t34 tzt1 tjt tq52 tt62 t62 tw31 ttv1 trt tls1 tt11 t672 t471 
-H 905 tr01 tqq tl72 t251 tsr1 tm7 t6b tlz tjc t6d2 tpd 
-V 463 601 tqr1 tq3 tsr1 tqh1 tjt H t3x1 tpd tt82 tc6 tbv tms tqq tc61 tqh txg1 tdz1 tkx t7j1 tqv 
-H 914 tv72 tgf1 t971 tn81 tsw tc51 
-H 959 tzw tv32 t8n t6w1 tsw 
-H 917 tkr1 twx1 tpl t5w1 tn4 tcn t66 
-H 976 t2z1 thl1 t2 td51 t6n1 t66 
-H 925 tht1 tz22 tkt1 tp3 th11 tg7 tct tkh1 
-V 211 104 t3p tz22 tp3 tqp tt91 tsv1 tqk1 H tm42 tb5 t6d2 tjb1 twl1 tqq thc t3w1 tkd1 t5r1 tnl 
-H 931 tqq tjx1 tqf ttc1 tnv tz61 tf3 t7d 
-H 971 ttb2 t921 t7d td62 trt 
-H 933 tq81 t3p tng t0w1 t7v tgt1 tkz1 tw11 
-V 68 91 trm1 tdg tx52 tdn1 tm7 tgt1 tnt tjt t6r1 tbv tkr1 thh1 tlz1 tqh ttt tkh t381 t291 tw11 t0g 
-H 935 tk22 tqv1 t7v1 t141 t8j1 t861 tg7 twz tvz 
-H 938 tfc2 t3d t3w1 tvm1 t3j1 tg7 
-H 936 tb02 tnh twk t13 tv1 tvc1 t1w tww1 tcv1 tkc1 tqc 
-V 814 246 tqz1 tk82 t072 t4v t34 t471 t452 tj91 tcv1 tqc t66 tv t181 t7c1 t822 tsx tz9 t65 t1w tdd t8l1 
-H 944 tfw tcq1 trm tz21 tmj1 tk92 tls1 thr1 tcw1 t952 
-V 557 53 tdb2 t4w t5m1 tl6 tx92 H tn7 t4t1 tmd1 thc1 tgr1 t332 tjl td41 tz21 tmz tm02 t2s1 tcc t19 
-H 948 t1d1 t071 tsx1 tkc1 tgn 
-H 986 tgn tq9 t692 tdd1 td tbx1 tzs1 t2k t69 t3q1 t7p1 
-H 950 t55 t38 t9x1 tdn1 t5v1 tc72 tv52 t1b t4v1 t74 t5j1 t631 tx61 
-V 408 157 t2g t38 tf41 t4c2 tz5 t4c1 tz71 thq t6d2 tg7 t051 tlz1 t0b ttd tmj1 th8 tzk1 t131 tr02 t802 tlg1 t74 t2t tk6 twn1 
-H 954 tjj1 tnr t3b1 tm31 tcg1 t291 tg42 t4x1 trz1 tx91 ttg trw t7p1 
-H 972 tfd1 tzn tjj1 t6m1 td7 tv5 t1j1 tjt thx tjr1 tcm1 t4f1 
-H 955 thh1 tn3 t012 t2c1 t0j1 tv8 
-V 645 55 tb92 tpr1 tm81 tvr tkt1 tvp H tdv td tpg1 ttb t57 t64 t181 twp t6h tdz1 tf72 tr02 tt11 t0j1 t7w t7p1 
-H 963 t412 t9r1 t9c1 tx41 t601 t162 tbj ttc tjp t6r1 tt tk91 
-V 833 407 tt72 tm12 tbz1 tgt1 tn4 tbj t4t1 tn51 t6r1 tww tlm1 t59 txc tb7 tmj1 tgc1 t762 thb1 t48 tfs1 t5r1 t7b2 
-H 966 t511 tvr t0c tpk1 tkx1 tfh 
-V 20 24 trh1 tvr t5x t112 t3g t8q tq91 H tcl tvs1 tqc tp62 txg t711 t0g1 tx7 t13 txr tj21 tvw t691 tvc2 ttj 
-H 969 tz91 tgx1 tf71 thn t4t1 t6c tpw t7h t651 tf22 t361 th02 t471 t622 
-V 386 335 t642 txb t491 t511 td62 tv81 t2m tqj1 thn t532 tkc1 ts61 tc5 t6c twj t181 trr tdm1 ts22 tjc 
-H 975 tm81 tdg tm7 t1n1 tst tt4 t861 t4g1 
-V 709 936 tk82 tb02 tsr1 tvc1 H tcv1 tkc1 tqc t621 tnh twk t13 tqx tv1 tst td01 t1w tww1 t861 tf82 
-H 978 tft t86 td62 tbz1 tpg1 tf4 t031 thf tll1 
-V 862 947 tl72 tbz1 t3g tn12 t3x1 ttm tlm tpg1 tzr t6c tnc t6h t59 tbq1 t3q trt t1w t9q1 t2t ttb1 tl51 tmn 
-H 987 tht1 thr t102 tgn tj5 t8t1 tr02 t4n tcv1 twl 
-V 967 878 tc82 th61 t4c2 tt tjt t4m H t221 tjr1 t532 tg7 tww tr42 thr tx71 t2b1 t901 t8t1 t1v1 trk 
-H 989 t462 t4m1 tb91 tjb2 tgt1 
-V 553 191 t942 tl72 tzl tx41 tgt1 tn12 tc81 tl6 tt82 tl9 tbv t181 t2m1 tzn t8z th42 tx71 t52 tm1 t09 
-H 998 tjj1 t3p1 tfc2 tpl t42 tdk tvc1 t24 t311 t6c 
-V 270 939 tpb2 tld1 tcd1 t911 tgt1 t7g1 tvc1 t5w1 H t4d1 t33 t662 tj tsq ttb2 t621 t771 t3b1 tdf1 t7b t6m tr02 ttf tqv t5f1 tnl1 
-V 97 187 trh1 t481 t7r1 H tbj t3k tzw tl31 tq92 tgb tbn1 t13 tm9 t3q trd t6t t7s1 twn1 tz02 
-V 320 143 tb1 t062 H tss1 tkv1 tpg1 thc1 t0t1 t6z1 t3k tl31 th62 tbc1 tx71 tn6 t19 tlr1 tdg1 t161 tbv1 tn01 t9k 
-V 242 119 t001 t2g tsr1 t911 tsj1 t3b tjb tt21 tq81 twg1 tvf t332 txc t711 ttd ttl t5c2 ths1 tw01 t802 ttb1 
-V 12 733 t001 t721 t701 twc2 t141 H t3b tcl t0l1 tn51 tm32 tv61 tt51 tc21 t711 t6t t5q1 t3d1 tjs1 
-V 287 126 tnm1 tdg tvm1 ttn tb62 tsv1 H t0s tm42 t4x tgj tnb2 tr42 twm1 t711 tz21 t8t1 tr5 t7j1 tj82 tws t0p1 tmn 
-V 457 363 ttk1 t342 tqv1 tjt H t4x tv32 t821 tk72 tpn1 t1r t3r1 t131 tm52 tqv t452 tj82 tz02 
-V 137 329 tpb2 t1g t2 H tjr1 tv32 ts61 tdp1 tc51 tnf tx4 t192 tfj t9w1 tdn t3q tkb2 tlr1 t252 thz t1j1 t82 thf1 tlg1 tv02 t8l 
-V 464 830 t791 t78 tc2 tsv1 H t011 tww tzn tzw t0r tw tx6 tfj tb7 ttt t1j1 tlr1 td51 tz9 tw11 tzl1 
-V 468 163 t5q tpc t4x1 tz61 H tpg1 t2h t3h tc6 ttx tp62 tn3 td41 t4n1 tw tbb1 t762 tm52 tr02 t1w t9j1 txb2 tk62 
-V 864 484 tnb tgc tp21 t4z1 t272 t3t tms1 tj41 H td92 tpg1 t881 td41 t3g1 tqx1 t7v tg71 t471 t311 tjs1 
-V 521 188 tp72 tpr1 tq21 tt72 ts9 t6 tdc1 tx52 t8h1 t4x1 ttz t7q1 t81 tg31 tm51 t621 tl3 tjx1 t47 tdw t6t t961 t74 t2t t19 
-V 288 34 tg62 tcb tr2 tz91 tb62 H tv32 t7q1 tt21 tbv tr61 tnr thr t9s1 t882 t6t t0c t9d1 t351 tvc2 tbm tf01 
-V 223 739 tht1 twc2 t452 tsj1 tj41 tc2 H t4b1 ths tpg1 ttw1 tj9 t8n1 t1v1 tzj1 tlw tfp tsg t7v1 ts22 t361 t9l 
-V 796 233 t6x tg62 t78 thp1 H t221 t6d2 tm11 tc21 t4n1 t671 tbq1 t4t t97 tdm tdg1 tgp1 tv3 t9d1 t74 tb21 t1v1 tdp tg2 
-V 837 250 t3c1 t7n1 tv9 t14 ts51 t4c2 t86 tc81 t4t1 t8k t9t1 t3k tqf1 tvh t0w1 ts2 ttk t5g1 tr02 t5d tw11 tjc t8p1 
-V 421 686 tb92 t3c1 t622 tpc2 tm81 tmk1 H ts41 t53 tbw1 trr tfj th42 tvh tjc t692 t211 t672 tt92 tq42 th11 tdp tsw 
-V 282 31 t4c2 tsb2 tm7 t0j tt01 H t1h tjw1 tbj tvs1 tkc1 tnh tqz t1c t4m1 t6w t542 t7q t73 
-V 67 299 tpb2 tn02 t55 tqt twh1 tjf1 t141 H t0l1 tvs1 t81 tkc1 tc5 t6c t2m1 thh1 tnf tlb1 tsv tk31 tcc t5r1 t0p1 
-V 293 44 tfc2 t5l tw81 H tj91 th3 t4x tsz tsp t4r t3m tjb1 t7k1 t13 tf51 t6f1 t0c tgp1 t1l1 t412 
-V 105 310 tg62 tx41 t7d1 t76 t4x tsz t3m tp5 tjl t41 tt9 tb7 tf12 tnd t882 tls1 t9j1 tqb2 tft1 
-V 324 349 t3c1 tvr t1g H t3v1 tq52 t4t1 tzm tv t181 tq7 trm tk81 trt t1w th4 t452 twn1 
-V 133 547 tqv1 tqf t4l1 t88 tbj t222 t9t1 t541 t332 t771 tlz1 trm tn62 tvh tgz trt trz tsk1 tf7 t452 tkf tpl1 
-V 331 370 tb02 tv9 t481 tgc tgl1 tgt1 H t812 ttm tvs1 txn1 tm51 tkr1 trr tlz1 t992 tsv t291 t74 t3d1 tmb2 
-V 481 378 tr51 tpc1 tld1 tv81 tgt1 tm62 H t861 t242 ttc2 t4d2 t7k1 tw t13 tx71 t7v tr5 tpj1 t19 tf02 tjs1 
-V 451 359 tvz1 tpc1 tp21 t991 tg62 thl1 tgl tq91 H tpg1 thv tcw1 t4d2 thc tqz tgz trt t42 t8l txp tf2 
-V 533 876 t7n1 tht1 tp21 tzg trd1 H t8x1 tj3 t2v1 t711 t8d tfj tv1 tqz tx01 t37 tk01 t622 tbm tdp 
-V 461 371 t7n1 t481 tcq tjp1 tbb tfr1 tzg ttz tf71 t4d1 tf21 tbv tts1 tnm t4d2 t3r1 t9x1 t6w th1 tlg1 tsl trs1 tj82 tsw 
-V 765 660 ts91 t3p tvb t38 tr9 tfr1 tzg tdd1 tq52 t4d1 tr81 t232 tz62 t1q t351 t691 t8b1 t19 ttj 
-V 399 541 tk61 td62 trf t8b thp1 H tnv1 tr1 t6j tms t4d2 tg3 tjl t6h t1r tz9 t672 t0j1 tnl 
-V 900 697 t3p tdp t852 thg1 thp1 tjt H tf01 tsp tdk1 tx1 t9d tw91 tvx tw61 t5r1 tks1 t381 t0j1 tkj td82 t7k t831 
-V 410 620 tpb2 tgc twc t34 t0f1 tsb2 tmf ttb1 t4t1 tbd1 tfz1 thv tcx1 tv92 t711 trg1 tf12 tk22 tgz tr5 trx t1l1 t8b1 t1 tkf 
-V 518 853 tr t6g1 t0f1 t852 tdn1 thp1 tjz1 t4k t4t1 t0z tbv tnf tp9 tx71 tvh tlb2 tr5 tb21 t8c2 tl51 tk6 t4f 
-V 670 418 tpb2 t7n1 t3p tf42 tjt ts4 t79 t2p1 thc tlk tlr1 tmw th8 thb1 tn31 tcc t4 t19 
-V 534 99 tfn tn71 tf42 t221 tb5 t81 tn2 t2m1 t711 t3r1 t13 tfj tjx1 twb2 tmj1 tmw t982 thd1 twz1 t1s tx01 t1b2 
-V 714 424 t9z1 tl72 tpc1 t83 tz61 tg52 t7q1 t662 tlh1 tjb1 tww t66 t0g1 tbp1 twk td7 t4t tqj tmv1 tdr t1s t291 t4v1 tbv1 twz 
-V 527 993 t6m1 t1q1 t571 t3w tz91 t5w1 ts5 t6d2 tpn1 tjb1 tww tlc tm9 tx51 ttl t8l1 t7l t9k t1 
-V 755 437 ttz1 tt72 t3t tzt1 t781 tdj tkx1 ttl1 H t7d tvs1 t6r1 t33 t4r t8j t332 tp62 t6f1 tk22 t4m1 tdg1 tbj1 t5f1 
-V 908 662 t55 t6x t342 tx41 tvk t3w t7g1 t8h1 H tv32 tr1 tdp1 tts1 tp62 t332 tk52 t68 t74 t8l1 tcz1 
-V 846 442 tqn tz22 txf1 tvm1 tvc1 txk1 tz5 H t011 tsv1 t4d1 tf21 t881 t8w t8t t8g t87 th8 tr02 tg71 tbv1 tph t5f1 
-V 990 998 tzl tfc2 tpl tdk thg1 tvc1 t011 H t24 t6c tts1 tjj1 t3p1 tgx t5x1 trx1 t42 t311 tft1 
-V 459 813 tp21 tdg tp3 t8h tvv1 tq91 tf01 tw52 t3m t66 t64 tlj tl31 ttb2 txt tt12 tgb2 tzk1 t3n tg71 t7m1 ttb1 tcv 
-V 452 594 t462 t891 tkn tz2 t3j1 H tj41 t0l1 tw52 t0r1 tvs1 tpj t6d2 tqp1 ttb2 twg1 tlm1 t93 tm9 t1j1 tr5 tz9 t802 t19 
-V 929 496 t1x1 tqz1 tm81 t511 t991 tln1 tpn tw62 tb5 t4d1 t81 t6t1 tx1 t2m1 tgn tk31 tz9 tj8 
-V 138 558 tqz1 t102 t7t twb1 tvc1 thp1 t3j1 t3x1 tcl t302 tl42 th42 trt tdz1 tz9 t622 t5f1 
-V 512 972 t511 t6m1 tjt ttd1 H tjr1 t4f1 tfd1 tkr1 tzn tjj1 tm9 td7 tv5 t1j1 thx tbr tcm1 
-V 544 618 trh1 t2r1 t701 tfb1 tz61 tkv tcv1 t81 t5z t2d2 tww tr42 tjj1 txg tm9 twd1 t622 tf61 
-V 304 563 t462 tz72 tr t3p t34 tl01 tm7 tjs tj91 ttw1 tt82 tnf tn tzc tc61 tqc2 t692 t291 tl21 t7j1 tg12 
-V 368 572 t4s t6z t34 t8n t9c t81 tt82 t33 trg thc1 tf21 tsq tj1 ttw1 t5p t6c tqh t131 thz tj4 tr5 tzx tt 
-V 580 376 t462 tcx t2 tb61 tdl1 tn51 t0t1 t33 t9b t8t tc21 tqq t8d1 tfj t0m t5v1 tpb tzk1 tn31 tsw 
-V 455 598 t942 tzt1 tds1 t7g1 t011 tm42 tr1 tc5 t071 tc21 tqq tz42 t5v1 t692 t1s tq72 t1v1 
-V 607 482 tb02 t3p t561 tz22 t342 t2m tvk t4l tg72 tkc1 tdp1 tts1 tfr tvn tg4 t1w t161 t2x1 tjc 
-V 711 951 t001 t7n1 t561 t8h1 tqh1 tp6 H tzs1 t6d2 t3m trc1 tqc t1c1 t2m1 tmj1 trt t2n t6t tl61 tm02 t1w 
-V 537 611 t9m1 tpr1 t38 trt1 t8h tpn tp71 H tlt tbj t7d t2k thq tq51 tql1 tn3 tg3 tqx1 t9q1 t7p1 
-V 641 633 tp41 tb1 t561 t772 tfc2 tn71 tz91 H tdv t35 t5k tpg1 tww tzk1 tz9 tmc t9q1 tkq1 tdh1 
-V 643 701 tjv t9z tn22 tqf twb1 tz91 t2 tdb tjw1 t4x tzm1 ttw1 tsn1 tp52 t3q t1s t1w t2t ts32 tm1 tmc t2v tpd 
-V 789 285 tld1 t0s tss1 tvs1 tkc1 t782 t242 t7k1 t2b tnf t3r1 tx t3q t1s twd1 t612 tjr tlf1 tvc2 
-V 649 703 t462 tmg1 t6z t86 t832 t9p t0j tq12 H t5f1 tcv1 tw91 td32 th1 t2t t5h1 t8l t1 
-V 926 699 t1f1 t002 t86 H th82 tgr t391 thc1 ttb2 tzn td41 tbf tf11 t2k1 t2t ttg1 tk6 
-V 673 808 tdb2 tzl t9c1 tm7 thn t7q1 tfz1 t722 tz6 tn3 tvh t2f tgb2 tmp1 t0c t9d1 tg71 t9k 
-V 715 956 tn71 tvk tjr1 t3q1 t7q1 t391 thc1 tx1 tfk1 t921 tpg tn3 td41 t6h1 tz21 tk22 tw32 tzk1 thx1 tqb2 t9k 
-V 705 932 tgg1 t072 tp21 tzg t76 tq91 t7d t6d2 t412 twg1 t93 tqc2 tf22 tkm1 tfp1 t381 t6t thb1 t74 tv02 td82 t031 tjs1 
-V 845 443 tnq1 t38 tl01 t042 ts92 tq91 t69 H tf71 th31 tw9 tb42 t64 tg01 t1j1 thb1 tdg1 tt11 tnj tp2 twz t412 
-V 30 748 tpb2 t8v t172 tbw H t221 thn tbs t621 t3r1 t08 tz3 t1q t7j tlg1 tr21 t73 
-V 772 115 t5b1 t8z1 H tq52 txm tn51 thc1 tj52 t7c2 tsw1 tjx1 tvh tk22 tgb2 twd1 t361 t8l1 t8g1 
-V 794 297 td02 tdb2 t4c2 td62 tb4 tdf tnw1 t5m1 tpp t7d1 ttx1 tn51 tq81 tfj th51 tb7 tt41 tsg1 t762 tls1 t82 tk6 
-V 835 937 tpr1 tdb2 tlb t3g txw1 tz61 tr1 t1n tfz1 tq81 ttb2 tnf td41 tft tf12 thb1 tk11 tgp1 t351 tlg1 tw11 tx82 
-V 321 805 tv9 t002 tht1 t9p1 tr92 t4s1 tf3 t4x1 tm42 txz tgz1 tv8 t33 tc51 td41 t39 tmj1 trt t7n tn4 twz 
-V 571 891 t792 t062 trc2 t1j t031 tm42 tjw1 th72 trq1 tjj1 t3t1 t151 tk22 trv t131 t9d1 t132 tzn1 tw11 tqv t2x1 t981 
-V 871 562 t7n1 tz41 tml1 t272 tw1 tpc tqp tvc1 tqh1 tt6 t011 tl6 tck ttb2 t181 t9m t46 tk31 t82 
-V 6 999 tr51 t14 t4q tlb t9c1 tpc t3j1 tpz1 t9s tqx tj62 t291 trx t502 t031 
-V 882 570 tr51 t6x tfb1 tcf1 H txh1 thq tqc tc8 t3k t2m1 t8d1 t19 tkk tgb2 tm02 th11 tzh1 tf2 
-V 970 979 tp41 tj92 t7x tdd1 t5w1 t3j1 H t4x tjr1 tn51 tms tx71 tqz t291 trz th11 tq32 
-V 911 675 tk12 t1h1 tvr tj11 t86 t76 td9 trg tpn1 t032 tq81 tr42 tzw tfm tg71 t2t tz82 t751 t412 
-V 870 953 t0b1 tx8 t701 t9c t2w tzt1 txq t4g1 t76 t751 H t0l tbp1 trg1 tdn tl8 trz tqt1 t4m1 tlj1 t4 tvc2 
-V 707 916 tq21 tdb2 tdg tvk t78 H ttm tjb1 t242 tsq tl3 tr61 thc tv1 tcc t281 
-V 920 760 tnb1 tgc t3b2 tdg tm7 tr2 t712 tmf tdv tkc1 tpn1 tc5 tww tlw tsr t3p1 tsg th8 tgg tpv ttt1 
-V 872 958 t462 ts91 tpr1 tls tlp1 tkc1 tsp t3m trn t6r ts td7 thz tvb1 t802 t1l1 tzn1 tj8 tbm tdh1 
+1
+28
+3
+387
+4
+470 167
+5
+652
+7
+286
+9
+585 383
+11
+177 511
+13
+606
+14
+388 522
+16
+36 314
+17
+517 991
+19
+298
+21
+203
+22
+775
+23
+960 500
+24
+125
+25
+602
+29
+90 169
+33
+38
+34
+577 307
+35
+358
+39
+674 635
+41
+433
+42
+276
+43
+14 15
+45
+725 61
+48
+688
+50
+195 543
+56
+87
+60
+197
+62
+576
+63
+505
+70
+550 49
+73
+743
+74
+100
+75
+616
+77
+40 752
+78
+442
+81
+450
+83
+860
+89
+300
+90
+314
+92
+327 401
+98
+858 680
+103
+770 664
+106
+644
+107
+567
+109
+820
+110
+928 801
+111
+423
+112
+72 529
+113
+394 524
+120
+638
+121
+201
+122
+855 474
+127
+861 253
+132
+176
+135
+208
+136
+873 490
+139
+716 653
+140
+217 46
+141
+994
+142
+202 615
+145
+768
+148
+245
+149
+532
+154
+483
+159
+370
+164
+735 427
+166
+296
+167
+799
+170
+746
+174
+704
+177
+912 691
+178
+279
+179
+134 301
+181
+730 988
+184
+755
+186
+294
+187
+781 147
+189
+724
+192
+384 513
+193
+85 162
+194
+467
+196
+838 436
+202
+468
+205
+131 289
+209
+661 215
+210
+406
+211
+287
+212
+581 207
+213
+409 160
+216
+183 95
+217
+0 22
+219
+278
+220
+745
+222
+514
+225
+393
+228
+281
+229
+275 123
+230
+497
+232
+247
+233
+509 382
+235
+519
+239
+273 26
+240
+361 825
+241
+329
+251
+596
+254
+277
+255
+471 173
+258
+688 637
+260
+767
+261
+472
+265
+516
+267
+457
+268
+435
+272
+841 943
+274
+301
+275
+984 987
+282
+860 683
+283
+256 889
+284
+614 630
+292
+648
+293
+400
+299
+268 995
+302
+367
+303
+27 29
+305
+343 413
+308
+381
+309
+536
+311
+746 236
+312
+803
+313
+337 402
+315
+332
+316
+736
+317
+352
+319
+797 238
+320
+913
+323
+923
+325
+79 118
+326
+348
+328
+671
+333
+430
+334
+356
+340
+778
+342
+352 438
+346
+93 763
+347
+893
+349
+82 149
+351
+357
+354
+197 32
+360
+473
+361
+129 277
+362
+364
+369
+66 94
+374
+480 182
+377
+425
+378
+896 695
+379
+389
+380
+530
+391
+908
+396
+10 78
+397
+623
+404
+546
+411
+963 503
+412
+584
+416
+665 414
+420
+454 817
+421
+199 555
+429
+550
+431
+712
+436
+973 915
+439
+785 156
+440
+719
+441
+259 894
+446
+924
+448
+533
+451
+140 339
+453
+213 619
+456
+262 112
+460
+654
+462
+707
+463
+727
+477
+559
+479
+761
+480
+604
+485
+921
+486
+200 318
+488
+64 728
+489
+397 617
+491
+42 51
+493
+551
+499
+723
+500
+647
+502
+830
+504
+728
+506
+392 150
+507
+740 430
+508
+539
+509
+557
+515
+569
+520
+867
+526
+939
+531
+71 108
+538
+570
+540
+549
+541
+942
+554
+560
+555
+561
+556
+152 341
+565
+732
+574
+807
+575
+802
+588
+347 415
+591
+964
+592
+249 107
+593
+840 466
+594
+74 114
+597
+18 179
+605
+226 744
+610
+668 800
+611
+741
+613
+4 8
+614
+625 627
+621
+656
+626
+629
+627
+723 58
+639
+706
+640
+832 676
+641
+992
+642
+263 116
+645
+983
+646
+903 583
+649
+982 507
+650
+264 924
+655
+776 144
+658
+525 866
+663
+856 478
+667
+682
+669
+865
+672
+155 372
+677
+345 820
+678
+747
+679
+819
+680
+685 881
+687
+692
+690
+729
+691
+771
+693
+836
+694
+722
+702
+888
+708
+886
+713
+153 306
+718
+88 39
+725
+907
+730
+733
+734
+852
+738
+786
+739
+487 885
+742
+951
+748
+906
+754
+926
+756
+146 344
+757
+405 539
+764
+449 803
+766
+784
+772
+779
+776
+880
+777
+812
+780
+458 366
+785
+204 101
+787
+330 812
+790
+839
+791
+850
+792
+831
+804
+721 220
+809
+757 444
+811
+898 612
+815
+355 447
+821
+589 422
+822
+843
+823
+844
+826
+795 229
+827
+475 375
+829
+878
+842
+922
+845
+520 52
+848
+657 726
+849
+851
+854
+751 434
+855
+130 542
+859
+874
+863
+887
+864
+997
+869
+719 977
+870
+970
+875
+80 759
+877
+469 171
+889
+231 568
+890
+899
+895
+847 243
+896
+494 887
+900
+962
+905
+463 601
+914
+959
+917
+976
+925
+211 104
+931
+971
+933
+68 91
+935
+938
+936
+814 246
+944
+557 53
+948
+986
+950
+408 157
+954
+972
+955
+645 55
+963
+833 407
+966
+20 24
+969
+386 335
+975
+709 936
+978
+862 947
+987
+967 878
+989
+553 191
+998
+270 939
+97 187
+320 143
+242 119
+12 733
+287 126
+457 363
+137 329
+464 830
+468 163
+864 484
+521 188
+288 34
+223 739
+796 233
+837 250
+421 686
+282 31
+67 299
+293 44
+105 310
+324 349
+133 547
+331 370
+481 378
+451 359
+533 876
+461 371
+660 765
+399 541
+900 697
+410 620
+518 853
+670 418
+534 99
+714 424
+527 993
+755 437
+908 662
+846 442
+990 998
+459 813
+452 594
+929 496
+138 558
+512 972
+544 618
+304 563
+368 572
+580 376
+455 598
+607 482
+711 951
+537 611
+641 633
+643 701
+789 285
+649 703
+926 699
+673 808
+715 956
+705 932
+845 443
+30 748
+772 115
+794 297
+835 937
+321 805
+571 891
+871 562
+6 999
+882 570
+970 979
+911 675
+870 953
+707 916
+920 760
